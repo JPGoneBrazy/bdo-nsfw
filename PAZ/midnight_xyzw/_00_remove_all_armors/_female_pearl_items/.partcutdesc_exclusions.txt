@@ -20,6 +20,7 @@
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0052_01
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0098_a1_mul
 1_pc/2_phw/armor/19_cloak/phw_00_cloak_0077
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0014
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0062_dm
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0080_a3_02
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0009
@@ -128,6 +129,7 @@
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0097_a1
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0334_w
 1_pc/17_psw/armor/19_cloak/psw_cw_cloak_0194
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0040_dm
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0095_a3_mul_na
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0013
 1_pc/29_pnyw/armor/14_sho/pnyw_10_sho_0089_a2
@@ -145,6 +147,7 @@
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0027_01
 1_pc/27_pkow/armor/11_hand/pkow_10_hand_0012
 1_pc/15_pdw/armor/9_upperbody/pdw_00_ub_0007_01_mul_na
+1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0055_dm
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0053
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0094_b1_01_w
 1_pc/29_pnyw/armor/14_sho/pnyw_10_sho_0095_w
@@ -169,6 +172,7 @@
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0075
 1_pc/27_pkow/armor/9_upperbody/pkow_00_ub_0002_dm
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0099_p
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0039
 1_pc/8_pww/armor/14_sho/pww_00_sho_0274
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0039_dm
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0067_01_dm
@@ -242,6 +246,7 @@
 1_pc/7_pvw/armor/10_lowerbody/pvw_00_lb_0204
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0056_dm
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0067
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0015_03
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0025_dm_w
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0030
 1_pc/7_pvw/armor/9_upperbody/pvw_00_ub_0004_dm
@@ -297,6 +302,7 @@
 1_pc/2_phw/armor/11_hand/phw_10_hand_0088
 1_pc/16_pcw/armor/10_lowerbody/pcw_00_lb_0129
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0040_02_mul_na
+1_pc/33_pdkl/armor/19_cloak/pdkl_00_cloak_0007_03_dm_w
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0067_dm
 1_pc/13_pnw/armor/10_lowerbody/pnw_00_lb_0052
 1_pc/22_pkww/armor/14_sho/pkww_00_sho_0012_dm
@@ -402,6 +408,7 @@
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0088_01_dm
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0080_a3_01
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0094_b1_01
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0062_dm
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0045_02_dm
 1_pc/8_pww/armor/11_hand/pww_00_hand_0103
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0205
@@ -410,8 +417,10 @@
 1_pc/3_pew/armor/14_sho/pew_00_sho_0121_dm
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0089_a3_01
 1_pc/13_pnw/armor/9_upperbody/pnw_00_ub_0037_dm
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0015_01
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0058_dm
 1_pc/3_pew/armor/11_hand/pew_10_hand_0080
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0039
 1_pc/12_pkw/armor/11_hand/pkw_ew_hand_0030_dm
 1_pc/2_phw/armor/19_cloak/phw_00_cloak_0076_dm
 1_pc/24_pfw/armor/14_sho/pfw_00_sho_0007_04
@@ -443,6 +452,7 @@
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0089_a4
 1_pc/3_pew/armor/19_cloak/pew_10_cloak_0027_01_w
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0027_03
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0097_b1_dm
 1_pc/17_psw/armor/14_sho/psw_10_sho_0098_b1_01_w
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0075
 1_pc/3_pew/armor/11_hand/pew_10_hand_0034_dm
@@ -484,12 +494,14 @@
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0075
 1_pc/21_ppw/armor/10_lowerbody/ppw_00_lb_0170
 1_pc/12_pkw/armor/10_lowerbody/pkw_10_lb_0003
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0334_01
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0095_a1_mul
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0008
 1_pc/22_pkww/armor/9_upperbody/pkww_00_ub_0061
 1_pc/13_pnw/armor/11_hand/pnw_10_hand_0058_01
 1_pc/17_psw/armor/11_hand/psw_10_hand_0006
 1_pc/3_pew/armor/19_cloak/pew_00_cloak_0081_dm
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_clock_0111_c
 1_pc/3_pew/armor/9_upperbody/pew_00_ub_0081_dm
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0058_01
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0080_a1_02
@@ -506,6 +518,7 @@
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0080_a2_02_w
 1_pc/3_pew/armor/10_lowerbody/pew_sd_lb_0001
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0099_w
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0089_a4
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0043
 1_pc/24_pfw/armor/19_cloak/pfw_10_cloak_0013_p
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0027_01
@@ -535,6 +548,7 @@
 1_pc/32_pwge/armor/19_cloak/pwge_10_cloak_0095_a1
 1_pc/2_phw/armor/19_cloak/phw_sd_cloak_0002_02
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0023
+1_pc/33_pdkl/armor/14_sho/pdkl_50_sho_0002
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0040_03_mul_na
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0048
 1_pc/7_pvw/armor/10_lowerbody/pvw_ew_lb_0033_dm
@@ -549,6 +563,7 @@
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0027_02
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0080_b2_01_mul
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0027_mul
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0016
 1_pc/11_pgw/armor/19_cloak/pgw_vw_cloak_0135_w
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0008
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0057_01
@@ -572,6 +587,7 @@
 1_pc/25_pqw/armor/19_cloak/pqw_10_cloak_0070_01_dm
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0052
 1_pc/15_pdw/armor/9_upperbody/pdw_00_ub_0198_mul_na
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0014_01_w
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0205_01
 1_pc/24_pfw/armor/9_upperbody/pfw_00_ub_0007
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0041_dm
@@ -589,6 +605,7 @@
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0008
 1_pc/13_pnw/armor/10_lowerbody/pnw_00_lb_0007_04_dm
 1_pc/24_pfw/armor/19_cloak/pfw_10_cloak_0048_01_w
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0070
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0006
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0083
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0080_a1_01
@@ -598,6 +615,7 @@
 1_pc/24_pfw/armor/11_hand/pfw_10_hand_0038_dm
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0033
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0071_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0099_p
 1_pc/17_psw/armor/14_sho/psw_10_sho_0021_01
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0016_dm
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0070
@@ -645,6 +663,7 @@
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0066_01
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0089_a1_w
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0095_a2_mul_na
+1_pc/33_pdkl/armor/14_sho/pdkl_00_sho_0033
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0074_w
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0028_dm_f
 1_pc/15_pdw/armor/14_sho/pdw_00_sho_0274_dm
@@ -686,6 +705,7 @@
 1_pc/3_pew/armor/11_hand/pew_10_hand_0027_dm
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0044
 1_pc/28_pmyf/event_costume/pmyf_00_contribute_0004_e
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_00_lb_0001_dm
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0012_mul_na
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0052
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0049_dm
@@ -704,6 +724,7 @@
 1_pc/22_pkww/armor/14_sho/pkww_00_sho_0270
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0013_w
 1_pc/7_pvw/armor/9_upperbody/pvw_00_ub_0266_dm
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0089_a2
 1_pc/29_pnyw/armor/14_sho/pnyw_10_sho_0093_01_w
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0099_dm_w
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0047_01
@@ -774,6 +795,7 @@
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0088_w
 1_pc/27_pkow/armor/9_upperbody/pkow_00_ub_0002
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0080_a2
+1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0050
 1_pc/32_pwge/armor/10_lowerbody/pwge_00_lb_0037
 1_pc/32_pwge/armor/9_upperbody/pwge_00_ub_0266_dm
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0055_01_dm
@@ -792,10 +814,13 @@
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0095_a2
 1_pc/28_pmyf/armor/14_sho/pmyf_50_sho_0001
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0052_01
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0050_01
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0045
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0027_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0039_dm_w
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0071_w
 1_pc/24_pfw/armor/9_upperbody/pfw_00_ub_0007_01_dm
+1_pc/33_pdkl/armor/14_sho/pdkl_00_sho_0002
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0080_a3
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0067_dm
 1_pc/2_phw/armor/14_sho/phw_10_sho_0042
@@ -803,6 +828,7 @@
 1_pc/24_pfw/event_costume_hel/pfw_00_contribute_hel_0103
 1_pc/25_pqw/armor/11_hand/pqw_10_hand_0334_ef2
 1_pc/24_pfw/armor/11_hand/pfw_10_hand_0011
+1_pc/33_pdkl/armor/11_hand/pdkl_05_hand_0001
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0035_mul
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0021_dm
 1_pc/21_ppw/event_costume/ppw_00_contribute_0109_e
@@ -832,6 +858,7 @@
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0025
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0083_01_w
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0039_mul
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_00_lb_0007_dm
 1_pc/3_pew/armor/9_upperbody/pew_00_ub_0176
 1_pc/7_pvw/armor/19_cloak/pvw_00_cloak_0083_p
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0035
@@ -852,6 +879,7 @@
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0080_b1
 1_pc/2_phw/armor/14_sho/phw_10_sho_0015_01
 1_pc/22_pkww/armor/11_hand/pkww_10_hand_0001
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0011_e
 1_pc/17_psw/armor/14_sho/psw_10_sho_0080_b1_w
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0041
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0098_a2
@@ -884,6 +912,7 @@
 1_pc/8_pww/armor/14_sho/pww_00_sho_0007_02
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0093_01_w
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0080_a2
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0061_dm
 1_pc/2_phw/armor/10_lowerbody/phw_00_lb_0040_dm
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0053
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0054
@@ -924,6 +953,7 @@
 1_pc/8_pww/armor/14_sho/pww_10_sho_0061_w
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0093
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0095_a1
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0016
 1_pc/16_pcw/event_costume/pcw_00_contribute_0011_e
 1_pc/21_ppw/armor/11_hand/ppw_10_hand_0027
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0093_01
@@ -934,6 +964,7 @@
 1_pc/25_pqw/armor/9_upperbody/pqw_00_ub_0007_dm
 1_pc/22_pkww/armor/9_upperbody/pkww_sd_ub_0001
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0020
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0055_dm
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0052_01_mul
 1_pc/21_ppw/armor/11_hand/ppw_10_hand_0009
 1_pc/29_pnyw/armor/11_hand/pnyw_10_hand_0013
@@ -952,6 +983,7 @@
 1_pc/8_pww/armor/14_sho/pww_10_sho_0048_dm
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0030_dm
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0042_dm
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0089_a3
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0066_01
 1_pc/15_pdw/event_costume/pdw_00_contribute_0001_e
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0016_mul_na
@@ -969,6 +1001,7 @@
 1_pc/16_pcw/armor/9_upperbody/pcw_50_ub_0009_e
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0071_w
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0069_mul
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0069
 1_pc/7_pvw/armor/9_upperbody/pvw_bw_ub_0017_dm
 1_pc/22_pkww/armor/11_hand/pkww_10_hand_0093
 1_pc/29_pnyw/armor/19_cloak/pnyw_00_cloak_0274
@@ -995,6 +1028,7 @@
 1_pc/11_pgw/armor/10_lowerbody/pgw_00_lb_0007_04
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0027_mul
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0083
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0007_e
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0098_b1
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0035_dm
 1_pc/11_pgw/armor/10_lowerbody/pgw_00_lb_0037
@@ -1025,6 +1059,7 @@
 1_pc/24_pfw/armor/19_cloak/pfw_10_cloak_0054_w
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0075_dm
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0025_dm
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0015_03
 1_pc/5_pbw/armor/14_sho/pbw_99_sho_0001
 1_pc/8_pww/event_costume/pww_00_contribute_0106_e
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0007
@@ -1039,11 +1074,13 @@
 1_pc/17_psw/armor/14_sho/psw_10_sho_0016
 1_pc/5_pbw/armor/19_cloak/pbw_00_cloak_0052
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0089_a1_01
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0015_02
 1_pc/8_pww/event_costume/pww_00_contribute_0105_e
 1_pc/2_phw/armor/14_sho/phw_10_sho_0014_01
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0080_a3_01_w
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0080_a2_01
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0080_a2_03
+1_pc/32_pwge/armor/19_cloak/pwge_10_cloak_0055_dm
 1_pc/28_pmyf/armor/14_sho/pmyf_50_sho_0004
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0097_b1
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0030
@@ -1064,6 +1101,7 @@
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0041
 1_pc/28_pmyf/armor/14_sho/pmyf_00_sho_0276_01
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0080_b1_02
+1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0055_01
 1_pc/25_pqw/armor/19_cloak/pqw_10_cloak_0052_w
 1_pc/27_pkow/event_costume/pkow_00_contribute_0009_e
 1_pc/29_pnyw/armor/14_sho/pnyw_00_sho_0239_dm
@@ -1080,6 +1118,7 @@
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0039_dm
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0070
 1_pc/7_pvw/armor/14_sho/pvw_00_sho_0134_01
+1_pc/33_pdkl/armor/9_upperbody/pdkl_00_ub_0033
 1_pc/17_psw/event_costume/psw_00_contribute_0006_mul_e
 1_pc/16_pcw/armor/19_cloak/pcw_10_cloak_0067_dm
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0015_01
@@ -1087,6 +1126,7 @@
 1_pc/8_pww/event_costume/pww_00_contribute_0113_e
 1_pc/7_pvw/armor/19_cloak/pvw_00_cloak_0239
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0080_b2
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0210_dm
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0089_a4
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0021_01_dm
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0006_dm
@@ -1164,6 +1204,7 @@
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0055_dm
 1_pc/13_pnw/armor/11_hand/pnw_ew_hand_0033
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0028_p
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0069
 1_pc/17_psw/armor/14_sho/psw_hw_sho_0043_01_dm
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0047_dm
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0040_01_dm
@@ -1199,10 +1240,12 @@
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0210_01
 1_pc/11_pgw/armor/11_hand/pgw_10_hand_0021_01
 1_pc/17_psw/armor/14_sho/psw_10_sho_0080_a1_w
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0067_dm_w
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0015_01
 1_pc/32_pwge/armor/11_hand/pwge_10_hand_0095
 1_pc/15_pdw/armor/9_upperbody/pdw_00_ub_0002_mul
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0098_a1
+1_pc/33_pdkl/armor/11_hand/pdkl_04_hand_0002
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0062
 1_pc/25_pqw/armor/11_hand/pqw_10_hand_0089_a2
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0011
@@ -1238,6 +1281,7 @@
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0027
 1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0057_01
 1_pc/13_pnw/armor/11_hand/pnw_10_hand_0029_dm
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0093
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0003
 1_pc/13_pnw/armor/11_hand/pnw_10_hand_0027_dm
 1_pc/13_pnw/armor/11_hand/pnw_10_hand_0031
@@ -1252,6 +1296,7 @@
 1_pc/16_pcw/armor/19_cloak/pcw_10_cloak_0022_dm
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0043_w
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0043_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0089_a3
 1_pc/8_pww/armor/9_upperbody/pww_00_ub_0242_dm
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0027_01_dm
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0047_dm
@@ -1271,6 +1316,7 @@
 1_pc/32_pwge/armor/11_hand/pwge_10_hand_0089_a3
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0089_a2
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0096
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0008
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0038
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0015_03
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0089_a4_01
@@ -1282,6 +1328,7 @@
 1_pc/2_phw/armor/14_sho/phw_10_sho_0001
 1_pc/29_pnyw/armor/14_sho/pnyw_10_sho_0052
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0058_01
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0210_01
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0098_a1
 1_pc/29_pnyw/armor/9_upperbody/pnyw_00_ub_0007_04_dm
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0048_mul_na
@@ -1348,6 +1395,7 @@
 1_pc/24_pfw/armor/9_upperbody/pfw_50_ub_0010_e
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0052
 1_pc/25_pqw/armor/14_sho/pqw_50_sho_0007
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0069_dm
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0063_dm_v
 1_pc/27_pkow/armor/11_hand/pkow_00_hand_0033
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0080_b1_03
@@ -1392,6 +1440,7 @@
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0012_dm
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0043_dm
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0057
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0039
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0080_b1_03
 1_pc/13_pnw/event_costume/pnw_00_contribute_0002_e
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0075
@@ -1401,6 +1450,7 @@
 1_pc/8_pww/event_costume/pww_00_manufacture_0005_e
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0030_dm
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0055
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0097_01
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0001
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0094_b1
 1_pc/15_pdw/armor/11_hand/pdw_00_hand_0002_01
@@ -1468,6 +1518,7 @@
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0003
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0021_dm
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0028_dm_f
+1_pc/33_pdkl/armor/19_cloak/pdkl_vw_cloak_0058_dm
 1_pc/3_pew/armor/19_cloak/pew_10_cloak_0039_dm_w
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0066_dm
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0055_01_dm_w
@@ -1583,6 +1634,7 @@
 1_pc/8_pww/armor/14_sho/pww_10_sho_0045_02_dm
 1_pc/2_phw/armor/10_lowerbody/phw_00_lb_0076_dm
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0075
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0097_a1_01
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0052_02
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0052_02
 1_pc/3_pew/armor/9_upperbody/pew_00_ub_0001
@@ -1619,6 +1671,7 @@
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0080_a3
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0074
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0050_mul
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0113_e
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0089_a4_01_mul
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0053_01_dm
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0094_b1
@@ -1642,6 +1695,7 @@
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0015
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0053_w
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0058_mul
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0069_01
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0052_03
 1_pc/8_pww/armor/19_cloak/pww_sd_10_cloak_0035_w
 1_pc/7_pvw/event_costume/pvw_00_contribute_0006_e
@@ -1650,6 +1704,7 @@
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0089_a4
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0002_e
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0088_dm
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0109_e
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0033_dm
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0063_mul
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0094_a1
@@ -1747,11 +1802,13 @@
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0080_a3_01
 1_pc/25_pqw/armor/11_hand/pqw_10_hand_0089_a4
 1_pc/32_pwge/armor/11_hand/pwge_10_hand_0057
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0061_dm_w
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0080_b1_01
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0056_dm
 1_pc/11_pgw/armor/11_hand/pgw_10_hand_0050
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0080_b1_01
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0099_01_w
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0012_dm
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0063_01
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0080_a4
 1_pc/29_pnyw/armor/11_hand/pnyw_10_hand_0061
@@ -1798,6 +1855,7 @@
 1_pc/2_phw/armor/11_hand/phw_05_hand_0001
 1_pc/3_pew/armor/19_cloak/pew_10_cloak_0047_dm_w
 1_pc/13_pnw/armor/19_cloak/pnw_00_cloak_0265
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0210
 1_pc/7_pvw/armor/14_sho/pvw_00_sho_0101
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0080_a4
 1_pc/22_pkww/armor/14_sho/pkww_hw_sho_0031
@@ -1905,6 +1963,7 @@
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0066_dm
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0080_a4
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0094_b1_01
+1_pc/33_pdkl/armor/11_hand/pdkl_00_hand_0034
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0045_02_dm
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0058_w
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0048
@@ -1948,6 +2007,7 @@
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0088
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0021_dm
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0080_a4_03
+1_pc/33_pdkl/armor/9_upperbody/pdkl_00_ub_0034_01_dm
 1_pc/17_psw/armor/11_hand/psw_10_hand_0016_mul_w
 1_pc/3_pew/armor/11_hand/pew_00_hand_0080
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0041_dm
@@ -2069,6 +2129,7 @@
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0013
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0038
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0035
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0014_01
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0062
 1_pc/27_pkow/armor/11_hand/pkow_10_hand_0095_01
 1_pc/7_pvw/armor/19_cloak/pvw_sd_00_cloak_0083_02_p
@@ -2101,6 +2162,7 @@
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0054_dm
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0070_01
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0035
+1_pc/33_pdkl/event_costume/pdkl_00_manufacture_0001_e
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0089_a4
 1_pc/17_psw/armor/11_hand/psw_10_hand_0074
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0027_dm
@@ -2121,6 +2183,7 @@
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0030
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0067_01
 1_pc/25_pqw/armor/10_lowerbody/pqw_00_lb_0033
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0001
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0047
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0055_dm
 1_pc/21_ppw/armor/11_hand/ppw_10_hand_0009_mul_na
@@ -2141,6 +2204,7 @@
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0080_a1_01_w
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0030
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0045_02
+1_pc/33_pdkl/armor/9_upperbody/pdkl_vw_ub_0134_dm
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0080_a2_01
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0066
 1_pc/16_pcw/armor/19_cloak/pcw_00_cloak_0121
@@ -2158,6 +2222,7 @@
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0001
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0094_a1_01_w
 1_pc/2_phw/armor/14_sho/phw_10_sho_0053_01_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0089_a2_01
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0056_dm
 1_pc/17_psw/armor/11_hand/psw_10_hand_0094_a1
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0012_dm
@@ -2168,6 +2233,7 @@
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0049_dm
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0097_a1_dm
 1_pc/32_pwge/armor/10_lowerbody/pwge_00_lb_0001_01
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0106_e
 1_pc/5_pbw/armor/19_cloak/pbw_00_cloak_0105_p
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0069_01
 1_pc/29_pnyw/armor/11_hand/pnyw_10_hand_0071
@@ -2198,6 +2264,7 @@
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0080_a1_02_w
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0021
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0066
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_00_lb_0007_04_dm
 1_pc/2_phw/armor/10_lowerbody/phw_ew_lb_0032
 1_pc/16_pcw/armor/14_sho/pcw_00_sho_0002
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0070_dm
@@ -2245,6 +2312,7 @@
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0021_01
 1_pc/12_pkw/armor/11_hand/pkw_bw_hand_0015
 1_pc/25_pqw/armor/11_hand/pqw_10_hand_0009_01
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0040
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0080_a3_mul_na
 1_pc/3_pew/armor/10_lowerbody/pew_00_lb_0007_01_dm
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0069
@@ -2253,6 +2321,7 @@
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0040_02
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0016_dm
 1_pc/29_pnyw/armor/14_sho/pnyw_10_sho_0059_01_w
+1_pc/33_pdkl/armor/9_upperbody/pdkl_00_ub_0002
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0059_mul
 1_pc/27_pkow/armor/14_sho/pkow_my_sho_0001_01
 1_pc/8_pww/armor/9_upperbody/pww_00_ub_0037
@@ -2350,6 +2419,7 @@
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0057
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0022
 1_pc/32_pwge/armor/14_sho/pwge_hw_sho_0043_01
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0008_e
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0015_01
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0060_dm
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0052
@@ -2399,6 +2469,7 @@
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0047_dm
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0030
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0023
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0066_dm
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0089_a3
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0083_dm
 1_pc/21_ppw/armor/10_lowerbody/ppw_50_lb_0001_mul
@@ -2420,6 +2491,7 @@
 1_pc/13_pnw/armor/9_upperbody/pnw_00_ub_0035_dm
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0089_a1_w
 1_pc/22_pkww/armor/10_lowerbody/pkww_00_lb_0136_dm
+1_pc/32_pwge/armor/14_sho/pwge_10_sho_0050_dm
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0067_dm_v
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0334_01
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0070
@@ -2514,6 +2586,7 @@
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0210_01
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0038
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0048_dm
+1_pc/33_pdkl/armor/11_hand/pdkl_04_hand_0002_01
 1_pc/24_pfw/armor/19_cloak/pfw_10_cloak_0070_01_dm
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0075_01
 1_pc/3_pew/armor/11_hand/pew_10_hand_0027_01_dm
@@ -2594,6 +2667,7 @@
 1_pc/22_pkww/armor/11_hand/pkww_04_hand_0003
 1_pc/5_pbw/armor/10_lowerbody/pbw_50_lb_0009
 1_pc/21_ppw/armor/9_upperbody/ppw_50_ub_0007_mul_e
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0053_w
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0089_a2
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0070
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0038
@@ -2602,6 +2676,7 @@
 1_pc/16_pcw/armor/14_sho/pcw_00_sho_0031_dm
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0040
 1_pc/13_pnw/armor/11_hand/pnw_10_hand_0015
+1_pc/33_pdkl/armor/14_sho/pdkl_vw_sho_0134
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0030_dm
 1_pc/17_psw/armor/14_sho/psw_10_sho_0096_01_w
 1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0016
@@ -2622,6 +2697,7 @@
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0050
 1_pc/13_pnw/event_costume/pnw_00_contribute_0101_e
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0334_ef2
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0097_a1_01_dm
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0034_dm
 1_pc/15_pdw/armor/10_lowerbody/pdw_vw_lb_0058_02_mul
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0045_dm
@@ -2636,6 +2712,8 @@
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0075_dm
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0015_01
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0080_b2_01_w
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_pw_lb_0256
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_00_lb_0033
 1_pc/12_pkw/armor/10_lowerbody/pkw_ew_lb_0009_dm
 1_pc/5_pbw/armor/10_lowerbody/pbw_lw_lb_0220_dm
 1_pc/13_pnw/armor/11_hand/pnw_00_hand_0177
@@ -2656,6 +2734,7 @@
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0016_dm_w
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0021_w
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0052_01_dm
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0093
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0040_01_mul
 1_pc/15_pdw/event_costume/pdw_00_contribute_0013_e
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0097
@@ -2699,6 +2778,7 @@
 1_pc/11_pgw/armor/14_sho/pgw_00_sho_0033_dm
 1_pc/3_pew/armor/11_hand/pew_10_hand_0060
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0097_b1_01_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0334_ef1_dm
 1_pc/29_pnyw/armor/19_cloak/pnyw_10_cloak_0205
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0021_w
 1_pc/7_pvw/armor/11_hand/pvw_00_hand_0266_01
@@ -2762,6 +2842,7 @@
 1_pc/32_pwge/armor/19_cloak/pwge_10_cloak_0056_w
 1_pc/11_pgw/armor/14_sho/pgw_00_sho_0170
 1_pc/32_pwge/armor/19_cloak/pwge_10_cloak_0059
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0061_dm
 1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0097_a1_dm
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0049
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0015_01
@@ -2794,6 +2875,7 @@
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0083
 1_pc/8_pww/armor/14_sho/pww_10_sho_0043_dm
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0097_b1
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0051_dm_w
 1_pc/16_pcw/armor/19_cloak/pcw_10_treedummer_0004
 1_pc/29_pnyw/armor/14_sho/pnyw_10_sho_0055_01_w
 1_pc/29_pnyw/event_costume_hel/pnyw_00_contribute_hel_0103
@@ -2826,10 +2908,12 @@
 1_pc/7_pvw/armor/14_sho/pvw_00_sho_0272
 1_pc/15_pdw/event_costume_hel/pdw_00_contribute_hel_0106
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0031
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0093_01_w
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0027_02_dm
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0030_dm
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0089_a2_mul_na_w
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0015
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0210_01
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0007
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0052_01_mul
 1_pc/25_pqw/armor/11_hand/pqw_10_hand_0037
@@ -2853,6 +2937,7 @@
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0039_dm
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0334
 1_pc/7_pvw/armor/9_upperbody/pvw_00_ub_0004
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0003
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0089_a4
 1_pc/2_phw/armor/19_cloak/phw_00_cloak_0268_dm
 1_pc/2_phw/armor/11_hand/phw_ew_hand_0009
@@ -2862,11 +2947,13 @@
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0062_dm
 1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0045_dm
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0050
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0015_01
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0015_03
 1_pc/7_pvw/armor/11_hand/pvw_04_hand_0004
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0016
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0097_b1
 1_pc/3_pew/armor/19_cloak/pew_10_cloak_0075
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0015
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0040_03
 1_pc/15_pdw/event_costume/pdw_00_contribute_0009_mul_e
 1_pc/2_phw/armor/14_sho/phw_10_sho_0050_01_dm
@@ -2893,6 +2980,8 @@
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0027_dm
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0094_b1
 1_pc/13_pnw/armor/9_upperbody/pnw_00_ub_0034
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0102_e
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_00_lb_0007_03
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0044_01_dm
 1_pc/25_pqw/armor/14_sho/pqw_00_sho_0007_04
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0063
@@ -2918,6 +3007,8 @@
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0059
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0052_02_mul_na
 1_pc/16_pcw/armor/10_lowerbody/pcw_00_lb_0001_03_dm
+1_pc/32_pwge/armor/19_cloak/pwge_10_cloak_0055
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0070
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0052_01
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0080_a2_w
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0074
@@ -2976,8 +3067,10 @@
 1_pc/17_psw/armor/11_hand/psw_04_hand_0004
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0058_mul_na
 1_pc/17_psw/event_costume/psw_00_contribute_0003_mul_na_e
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0055_01_dm_w
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0008
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0210_01_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0093
 1_pc/11_pgw/armor/11_hand/pgw_00_hand_0258
 1_pc/3_pew/armor/11_hand/pew_10_hand_0038
 1_pc/17_psw/event_costume_hel/psw_10_hel_0004_op
@@ -2985,6 +3078,7 @@
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0075
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0011_dm
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0089_a4
+1_pc/33_pdkl/armor/11_hand/pdkl_vw_hand_0134
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0052_01
 1_pc/7_pvw/armor/9_upperbody/pvw_00_ub_0007_03_dm
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0030_dm
@@ -3005,10 +3099,12 @@
 1_pc/25_pqw/armor/10_lowerbody/pqw_00_lb_0033_dm
 1_pc/17_psw/armor/14_sho/psw_10_sho_0012_mul
 1_pc/8_pww/event_costume/pww_00_contribute_0002_e
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0089_a1
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0045_dm
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0080
 1_pc/11_pgw/armor/9_upperbody/pgw_vw_ub_0135
 1_pc/24_pfw/armor/10_lowerbody/pfw_00_lb_0007_01
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0101_e
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0080_b2_02_w
 1_pc/7_pvw/armor/11_hand/pvw_00_hand_0135_dm
 1_pc/17_psw/event_costume/psw_00_manufacture_0001_k
@@ -3060,6 +3156,7 @@
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0027_dm
 1_pc/22_pkww/armor/11_hand/pkww_10_hand_0075
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0012
+1_pc/33_pdkl/armor/9_upperbody/pdkl_50_ub_0004_e
 1_pc/25_pqw/armor/9_upperbody/pqw_50_ub_0001_e
 1_pc/15_pdw/armor/11_hand/pdw_00_hand_0137
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0048_mul
@@ -3107,6 +3204,7 @@
 1_pc/8_pww/armor/14_sho/pww_10_sho_0058_w
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0023
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0063
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0334_w
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0074
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0080_b1
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0047
@@ -3126,6 +3224,7 @@
 1_pc/21_ppw/armor/11_hand/ppw_00_hand_0007_mul
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0089_a2_mul
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0040_01
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0028_p
 1_pc/2_phw/armor/9_upperbody/phw_00_ub_0274_dm
 1_pc/8_pww/armor/9_upperbody/pww_00_ub_0088_dm
 1_pc/7_pvw/armor/10_lowerbody/pvw_00_lb_0274
@@ -3174,8 +3273,10 @@
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0075_dm
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0334
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0059_w
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_pw_lb_0256_01_dm
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0001
 1_pc/5_pbw/armor/11_hand/pbw_00_hand_0034
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_00_lb_0037
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0080_a4
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0058_dm
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0098_a1_01
@@ -3201,9 +3302,11 @@
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0040_01_dm
 1_pc/15_pdw/armor/10_lowerbody/pdw_00_lb_0053
 1_pc/21_ppw/armor/9_upperbody/ppw_00_ub_0256_mul_na
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0097_b1_01
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0095_a3_mul_na
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0001
 1_pc/16_pcw/armor/19_cloak/pcw_10_cloak_0033_dm
+1_pc/33_pdkl/armor/14_sho/pdkl_vw_sho_0134_01
 1_pc/22_pkww/event_costume/pkww_00_contribute_0006_e
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0045
 1_pc/15_pdw/armor/14_sho/pdw_00_sho_0017
@@ -3244,6 +3347,7 @@
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0098_a1
 1_pc/3_pew/armor/19_cloak/pew_00_cloak_0007_03
 1_pc/5_pbw/armor/10_lowerbody/pbw_00_lb_0274_dm
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0089_a3
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0040
 1_pc/5_pbw/armor/14_sho/pbw_00_sho_0130
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0089_a1_w
@@ -3291,6 +3395,7 @@
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0028_w
 1_pc/8_pww/armor/11_hand/pww_10_hand_0094_a1
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0099
+1_pc/33_pdkl/armor/9_upperbody/pdkl_pw_ub_0256
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0035_w
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0334_ef2_mul_na
 1_pc/29_pnyw/armor/19_cloak/pnyw_10_cloak_0056_w
@@ -3423,11 +3528,13 @@
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0007
 1_pc/5_pbw/armor/9_upperbody/pbw_00_ub_0007_03_dm
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0043
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0070_dm
 1_pc/3_pew/armor/19_cloak/pew_00_cloak_0188_dm
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0037
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0056
 1_pc/7_pvw/armor/10_lowerbody/pvw_00_lb_0083_dm
 1_pc/2_phw/armor/14_sho/phw_10_sho_0023_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_50_ub_0006_e
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0095_a1
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0022_dm
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0098_a1
@@ -3485,6 +3592,7 @@
 1_pc/25_pqw/armor/19_cloak/pqw_10_cloak_0057_dm
 1_pc/15_pdw/armor/11_hand/pdw_00_hand_0033_01
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0070_01
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0067
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0015
 1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0067_dm
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0089_a2
@@ -3493,6 +3601,7 @@
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0067_dm
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0210
 1_pc/25_pqw/armor/9_upperbody/pqw_50_ub_0004_e
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0055_01
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0080_a1_03
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0043
 1_pc/8_pww/armor/10_lowerbody/pww_50_lb_0001
@@ -3569,6 +3678,7 @@
 1_pc/15_pdw/armor/19_cloak/pdw_vw_cloak_0058_dm
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0054_dm
 1_pc/22_pkww/armor/10_lowerbody/pkww_00_lb_0132
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0067
 1_pc/3_pew/armor/14_sho/pew_10_sho_0074
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0027_02
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0089_a4_01
@@ -3667,6 +3777,7 @@
 1_pc/8_pww/armor/14_sho/pww_10_sho_0012_dm
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0038_dm
 1_pc/25_pqw/armor/11_hand/pqw_10_hand_0096
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0063_01
 1_pc/27_pkow/armor/11_hand/pkow_10_hand_0075
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0071_w
 1_pc/17_psw/armor/11_hand/psw_00_hand_0037_dm
@@ -3679,6 +3790,7 @@
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0013_w
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0022_mul_na
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0027_01_dm
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_00_lb_0007_04
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0039
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0205_dm
 1_pc/24_pfw/armor/19_cloak/pfw_ew_cloak_0033_01
@@ -3718,6 +3830,7 @@
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0015_03
 1_pc/15_pdw/armor/9_upperbody/pdw_00_ub_0121_dm
 1_pc/22_pkww/armor/10_lowerbody/pkww_bw_lb_0015
+1_pc/33_pdkl/armor/14_sho/pdkl_00_sho_0033_dm
 1_pc/17_psw/event_costume/psw_00_manufacture_0001_mul_na_k
 1_pc/2_phw/armor/11_hand/phw_10_hand_0056_01
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0334_ef2_dm
@@ -3845,6 +3958,7 @@
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0011_dm
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0021_01_dm
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0044
+1_pc/33_pdkl/event_costume/pdkl_00_manufacture_0006_e
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0089_a1_w
 1_pc/24_pfw/armor/11_hand/pfw_00_hand_0266_02
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0094_a1_01_w
@@ -3871,6 +3985,7 @@
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0023
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0095_a3_01
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0094_a1_mul
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0053_dm
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0334_w
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0088_dm_w
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0062_dm
@@ -3896,7 +4011,9 @@
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0029
 1_pc/22_pkww/armor/14_sho/pkww_fw_sho_0001
 1_pc/8_pww/event_costume/pww_00_contribute_0011_e
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0334_ef1
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0089_a3
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0053_dm
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0075_01_dm
 1_pc/13_pnw/armor/11_hand/pnw_05_hand_0001
 1_pc/17_psw/armor/9_upperbody/psw_00_ub_0034_dm
@@ -4039,6 +4156,7 @@
 1_pc/2_phw/armor/9_upperbody/phw_00_ub_0030_dm
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0083_01_w
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0022
+1_pc/33_pdkl/armor/19_cloak/pdkl_pw_cloak_0256_dm_p
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0021_01
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0069_dm
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0052_01_mul
@@ -4048,6 +4166,7 @@
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0071
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0044_dm
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0089_a3
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0040_dm
 1_pc/3_pew/armor/11_hand/pew_10_hand_0015_01
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0048_dm
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0020
@@ -4064,6 +4183,7 @@
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0025_dm
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0048_dm
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0334_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0063
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0054_mul_na
 1_pc/25_pqw/armor/9_upperbody/pqw_00_ub_0034_dm
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0053_01_mul
@@ -4072,6 +4192,7 @@
 1_pc/28_pmyf/armor/9_upperbody/pmyf_50_ub_0006_e
 1_pc/24_pfw/armor/11_hand/pfw_10_hand_0334_ef2
 1_pc/22_pkww/armor/10_lowerbody/pkww_00_lb_0037
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0089_a3_01
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0075_01_dm
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0021
 1_pc/13_pnw/armor/11_hand/pnw_10_hand_0070
@@ -4112,9 +4233,11 @@
 1_pc/21_ppw/armor/9_upperbody/ppw_50_ub_0010_mul_na_e
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0095_a1
 1_pc/7_pvw/armor/14_sho/pvw_cw_sho_0002_dm_w
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0093_w
 1_pc/16_pcw/event_costume/pcw_00_manufacture_0006_k
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0015_w
 1_pc/15_pdw/armor/14_sho/pdw_sd_10_sho_0033
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0063
 1_pc/13_pnw/armor/11_hand/pnw_hw_hand_0031
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0033_dm
 1_pc/27_pkow/event_costume/pkow_00_contribute_0014_01_w
@@ -4129,6 +4252,7 @@
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0001
 1_pc/22_pkww/armor/11_hand/pkww_00_hand_0235_01
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0021
+1_pc/32_pwge/armor/14_sho/pwge_10_sho_0050_01
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0080_a3_02_w
 1_pc/17_psw/event_costume/psw_00_contribute_0008_e
 1_pc/22_pkww/event_costume/pkww_00_contribute_0103_e
@@ -4145,6 +4269,7 @@
 1_pc/21_ppw/event_costume/ppw_00_contribute_0007_mul_e
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0097_a1
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0080_a2_01_w
+1_pc/33_pdkl/armor/19_cloak/pdkl_50_cloak_0008_p
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0080_b2_mul
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0083_01
 1_pc/3_pew/armor/14_sho/pew_10_sho_0096_01_dm_w
@@ -4176,6 +4301,7 @@
 1_pc/8_pww/armor/11_hand/pww_10_hand_0089_a3
 1_pc/27_pkow/armor/11_hand/pkow_10_hand_0334_01
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0042_mul_na
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0334
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0040_03_dm
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0060
 1_pc/12_pkw/armor/14_sho/pkw_bw_sho_0015
@@ -4231,6 +4357,7 @@
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0023
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0037
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0069_dm
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_50_lb_0004
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0095_a1
 1_pc/7_pvw/armor/11_hand/pvw_00_hand_0277
 1_pc/5_pbw/armor/11_hand/pbw_ew_hand_0033_01
@@ -4239,6 +4366,7 @@
 1_pc/22_pkww/event_costume_hel/pkww_00_contribute_hel_0102
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0089_a4
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0094_b1_01
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0089_a4
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_00_lb_0007_01
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0041_dm
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0008
@@ -4288,6 +4416,7 @@
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0023
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0008_mul
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0045_01
+1_pc/33_pdkl/armor/19_cloak/pdkl_50_cloak_0009_p
 1_pc/8_pww/armor/11_hand/pww_00_hand_0274_01
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0008
 1_pc/2_phw/armor/14_sho/phw_10_sho_0098_b1_w
@@ -4381,6 +4510,7 @@
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0099_dm
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0034
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0061_dm
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0055_01_dm
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0083_dm
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0031
 1_pc/13_pnw/armor/9_upperbody/pnw_00_ub_0052_dm
@@ -4435,6 +4565,7 @@
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0080_a1
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0097
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0016_dm
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0062
 1_pc/3_pew/event_costume_hel/pew_00_contribute_hel_0111_d
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0033
 1_pc/15_pdw/armor/9_upperbody/pdw_00_ub_0275_mul
@@ -4525,6 +4656,7 @@
 1_pc/29_pnyw/armor/9_upperbody/pnyw_00_ub_0001
 1_pc/8_pww/armor/14_sho/pww_sd_sho_0001
 1_pc/17_psw/armor/14_sho/psw_10_sho_0080_a4_01_w
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0089_a1_01
 1_pc/17_psw/armor/11_hand/psw_10_hand_0056
 1_pc/32_pwge/armor/9_upperbody/pwge_hw_ub_0085
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0015_01
@@ -4538,6 +4670,7 @@
 1_pc/22_pkww/armor/10_lowerbody/pkww_ew_lb_0033_01_dm
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0080_a2_01_mul_na
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0027_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_50_cloak_0006_p
 1_pc/3_pew/armor/9_upperbody/pew_00_ub_0272
 1_pc/15_pdw/armor/11_hand/pdw_05_hand_0001
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0080_b2_01
@@ -4677,6 +4810,7 @@
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0012_dm
 1_pc/17_psw/armor/9_upperbody/psw_00_ub_0007_03_mul
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0063
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0063
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0098_a1
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0098_a1_w
 1_pc/8_pww/armor/9_upperbody/pww_00_ub_0121
@@ -4733,6 +4867,7 @@
 1_pc/13_pnw/armor/11_hand/pnw_00_hand_0062_dm
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0024_dm
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0089_a1_w
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0040_dm
 1_pc/3_pew/armor/14_sho/pew_10_sho_0089_a4_01
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0016_w
 1_pc/15_pdw/armor/14_sho/pdw_00_sho_0245_mul
@@ -4823,6 +4958,7 @@
 1_pc/32_pwge/armor/9_upperbody/pwge_50_ub_0004_e
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0080_a4_01_w
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0075
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0061_w
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0021_01
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0055_dm
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0205_dm
@@ -4839,7 +4975,9 @@
 1_pc/7_pvw/armor/14_sho/pvw_00_sho_0000
 1_pc/17_psw/armor/14_sho/psw_10_sho_0075_mul_w
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0080_b2_03
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0089_a1
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0052_01
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0040_01
 1_pc/8_pww/armor/14_sho/pww_10_sho_0027
 1_pc/21_ppw/armor/11_hand/ppw_10_hand_0063
 1_pc/8_pww/event_costume/pww_00_contribute_0010_e
@@ -4870,6 +5008,7 @@
 1_pc/13_pnw/armor/10_lowerbody/pnw_00_lb_0234_dm
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0050_01
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0097_01
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0008
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0080_b2
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0089_a3
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0034_dm
@@ -4900,6 +5039,7 @@
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0210_01
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0334_01
 1_pc/3_pew/armor/19_cloak/pew_vw_cloak_0076_w
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0050
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0060_w
 1_pc/24_pfw/event_costume/pfw_00_contribute_0108_e
 1_pc/28_pmyf/armor/9_upperbody/pmyf_00_ub_0268
@@ -4978,6 +5118,7 @@
 1_pc/17_psw/armor/14_sho/psw_10_sho_0018
 1_pc/22_pkww/armor/11_hand/pkww_10_hand_0089_a3
 1_pc/17_psw/armor/9_upperbody/psw_50_ub_0009_mul_e_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0062
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0043
 1_pc/3_pew/armor/9_upperbody/pew_00_ub_0262
 1_pc/32_pwge/event_costume/pwge_00_contribute_0109_e
@@ -5043,6 +5184,9 @@
 1_pc/8_pww/armor/11_hand/pww_10_hand_0071
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0205_dm
 1_pc/24_pfw/armor/19_cloak/pfw_ew_cloak_0033_01_dm
+1_pc/33_pdkl/armor/11_hand/pdkl_vw_hand_0058
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_pw_lb_0256_01
+1_pc/33_pdkl/armor/11_hand/pdkl_vw_hand_0058_01
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0015_01
 1_pc/22_pkww/armor/11_hand/pkww_00_hand_0034_dm
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0098_b1_01_w
@@ -5243,6 +5387,7 @@
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0054
 1_pc/2_phw/armor/14_sho/phw_00_sho_0052_dm
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0088
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_50_lb_0001
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0088_dm
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0080_b2_01
 1_pc/22_pkww/armor/11_hand/pkww_10_hand_0088
@@ -5278,6 +5423,7 @@
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0099_dm
 1_pc/17_psw/armor/9_upperbody/psw_50_ub_0004_mul_na_e
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0069_dm_w
+1_pc/33_pdkl/armor/14_sho/pdkl_50_sho_0001
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0053
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0067
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0205
@@ -5318,10 +5464,12 @@
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0094_b1
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0035
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0049_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0334_ef2
 1_pc/22_pkww/armor/9_upperbody/pkww_00_ub_0088_dm
 1_pc/25_pqw/armor/11_hand/pqw_10_hand_0095
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0080_a1_02
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0040_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0040_01_dm
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0059
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0040
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0080_a4
@@ -5403,6 +5551,7 @@
 1_pc/13_pnw/armor/11_hand/pnw_10_hand_0074
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0094_a1_01
 1_pc/27_pkow/armor/14_sho/pkow_00_sho_0274
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0060_dm
 1_pc/28_pmyf/armor/11_hand/pmyf_05_hand_0001
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0089_a2
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0089_a4_w
@@ -5413,6 +5562,7 @@
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0047_dm
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0040_01_mul_na
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0080_b2_01
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0015_01
 1_pc/15_pdw/armor/11_hand/pdw_00_hand_0053
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0080_b2_02_w
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0034_mul
@@ -5462,6 +5612,7 @@
 1_pc/2_phw/armor/11_hand/phw_10_hand_0031
 1_pc/2_phw/armor/11_hand/phw_10_hand_0097
 1_pc/3_pew/armor/14_sho/pew_10_sho_0080_a4_03_w
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0066_dm_w
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0089_a4
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0038_dm
 1_pc/8_pww/armor/10_lowerbody/pww_00_lb_0204
@@ -5495,10 +5646,12 @@
 1_pc/8_pww/armor/9_upperbody/pww_50_ub_0003_e
 1_pc/24_pfw/armor/11_hand/pfw_10_hand_0031
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0080_b2_01_w
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0334_ef1
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0056_dm
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0075
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0028_dm_p
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0023
+1_pc/33_pdkl/armor/9_upperbody/pdkl_00_ub_0007_04_dm
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0021_w
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0070_01
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0088_dm_w
@@ -5510,6 +5663,7 @@
 1_pc/17_psw/armor/11_hand/psw_50_hand_0002
 1_pc/8_pww/armor/11_hand/pww_04_hand_0004
 1_pc/22_pkww/armor/11_hand/pkww_10_hand_0009_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0062
 1_pc/7_pvw/armor/14_sho/pvw_sd_00_sho_0083_02
 1_pc/32_pwge/armor/19_cloak/pwge_10_cloak_0334_w
 1_pc/22_pkww/armor/14_sho/pkww_99_sho_0001
@@ -5527,6 +5681,7 @@
 1_pc/11_pgw/event_costume/pgw_10_treedummer_0004_e
 1_pc/25_pqw/event_costume_hel/pqw_00_contribute_hel_0111_d
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0210_mul
+1_pc/33_pdkl/armor/11_hand/pdkl_00_hand_0037_dm
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0025_dm
 1_pc/22_pkww/armor/10_lowerbody/pkww_50_lb_0004
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0009
@@ -5557,6 +5712,7 @@
 1_pc/13_pnw/armor/10_lowerbody/pnw_bw_lb_0018
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0093_01
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0061
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0012
 1_pc/24_pfw/armor/9_upperbody/pfw_ew_ub_0033_01
 1_pc/29_pnyw/armor/19_cloak/pnyw_10_cloak_0013_p
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0012_dm
@@ -5624,6 +5780,7 @@
 1_pc/8_pww/armor/11_hand/pww_00_hand_0067
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0015_03
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0060_dm_w
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_00_lb_0007_03_dm
 1_pc/13_pnw/armor/11_hand/pnw_00_hand_0040
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0057_mul
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0015_01
@@ -5671,6 +5828,7 @@
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0020
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0014_01
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0061
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0205
 1_pc/22_pkww/armor/11_hand/pkww_10_hand_0015
 1_pc/3_pew/armor/11_hand/pew_vw_hand_0003
 1_pc/24_pfw/event_costume/pfw_00_contribute_0014_e
@@ -5690,6 +5848,7 @@
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0049_dm
 1_pc/29_pnyw/event_costume/pnyw_00_contribute_0103_e
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0033_mul_na
+1_pc/33_pdkl/event_costume_hel/pdkl_00_contribute_hel_0109_d
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0053
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0096_01_dm_w
 1_pc/2_phw/armor/9_upperbody/phw_00_ub_0034
@@ -5740,6 +5899,7 @@
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0063_dm
 1_pc/15_pdw/armor/10_lowerbody/pdw_00_lb_0033_dm
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0070
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0069_01
 1_pc/15_pdw/armor/11_hand/pdw_00_hand_0033_01_mul_na
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0089_a4_01_mul
 1_pc/7_pvw/armor/10_lowerbody/pvw_00_lb_0002_dm
@@ -5755,6 +5915,7 @@
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0098_a1
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0056_dm
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0080_a1_01
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0040_w
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0093
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0058_01
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0056_dm
@@ -5801,6 +5962,7 @@
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0069
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0041
 1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0012
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0050_w
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0095_a2
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0094_b1_01_w
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0038
@@ -5865,6 +6027,7 @@
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0070_01
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0071_dm
 1_pc/2_phw/armor/11_hand/phw_10_hand_0098_a1
+1_pc/32_pwge/armor/14_sho/pwge_10_sho_0050
 1_pc/13_pnw/armor/19_cloak/pnw_00_cloak_0265_01_dm
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0041_mul_na
 1_pc/25_pqw/armor/11_hand/pqw_10_hand_0094_a1
@@ -5873,6 +6036,7 @@
 1_pc/3_pew/armor/10_lowerbody/pew_00_lb_0045_dm
 1_pc/2_phw/armor/19_cloak/phw_00_cloak_0236_dm_p
 1_pc/3_pew/armor/9_upperbody/pew_sd_ub_0001
+1_pc/33_pdkl/armor/19_cloak/pdkl_00_cloak_0001_w
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0070_01_dm
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0070_01
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0007_dm
@@ -5912,6 +6076,7 @@
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0053_dm
 1_pc/11_pgw/armor/10_lowerbody/pgw_50_lb_0004
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0097_a1_dm
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0205_01
 1_pc/7_pvw/armor/9_upperbody/pvw_00_ub_0007_04_dm
 1_pc/2_phw/armor/19_cloak/phw_00_cloak_0144
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0008
@@ -5943,6 +6108,8 @@
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0071
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0070_01_mul_na
 1_pc/16_pcw/armor/19_cloak/pcw_dw_cloak_0002_01_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0061
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0066
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0045_01
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0098_a1
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0066
@@ -5994,9 +6161,11 @@
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0055
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0070
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0053
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0051_dm
 1_pc/32_pwge/armor/11_hand/pwge_00_hand_0034
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0040_03
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0093_01
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0099
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0030
 1_pc/8_pww/armor/19_cloak/pww_00_cloak_0110
 1_pc/29_pnyw/armor/11_hand/pnyw_00_hand_0007_01
@@ -6013,6 +6182,7 @@
 1_pc/21_ppw/event_costume/ppw_00_contribute_0005_mul_e
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0069
 1_pc/2_phw/armor/11_hand/phw_10_hand_0089_a3
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0099_dm
 1_pc/25_pqw/armor/11_hand/pqw_00_hand_0229_01
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0099_mul
 1_pc/5_pbw/armor/9_upperbody/pbw_00_ub_0054
@@ -6057,6 +6227,7 @@
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0095_a3_01
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0030_dm
 1_pc/24_pfw/armor/19_cloak/pfw_10_cloak_0004_w
+1_pc/33_pdkl/armor/14_sho/pdkl_vw_sho_0134_01_dm
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0050_w
 1_pc/2_phw/event_costume/phw_00_contribute_0113_e
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0028
@@ -6128,6 +6299,7 @@
 1_pc/13_pnw/event_costume/pnw_00_contribute_clock_0111_c
 1_pc/15_pdw/armor/10_lowerbody/pdw_50_lb_0004_mul
 1_pc/3_pew/armor/9_upperbody/pew_00_ub_0004
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0089_a1_w
 1_pc/29_pnyw/armor/19_cloak/pnyw_10_cloak_0070_dm
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0045
 1_pc/24_pfw/armor/11_hand/pfw_10_hand_0071
@@ -6222,6 +6394,7 @@
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0051_dm
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0098_b1_01
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0089_a3_01
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0070_01
 1_pc/25_pqw/armor/19_cloak/pqw_10_cloak_0089_a2
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0080_a3_01_mul
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0334_ef2_dm
@@ -6259,6 +6432,7 @@
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0080_a4_01
 1_pc/28_pmyf/event_costume/pmyf_00_manufacture_0005_e
 1_pc/3_pew/armor/11_hand/pew_10_hand_0009_01
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0089_a2_w
 1_pc/3_pew/armor/11_hand/pew_10_hand_0050
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0018
 1_pc/28_pmyf/armor/19_cloak/pmyf_00_cloak_0001_dm
@@ -6424,6 +6598,7 @@
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0094_a1
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0334_ef2
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0095_a3
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0093_01
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0080_b1_w
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0010_dm
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0210
@@ -6432,6 +6607,7 @@
 1_pc/29_pnyw/armor/19_cloak/pnyw_10_cloak_0020
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0027_02_dm
 1_pc/25_pqw/armor/14_sho/pqw_00_sho_0033
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0097
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0027_dm
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0023_dm
 1_pc/11_pgw/armor/11_hand/pgw_00_hand_0246
@@ -6474,6 +6650,7 @@
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0044_dm
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0040_01_dm
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0053_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_00_ub_0034_dm
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0052_w
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0050
 1_pc/13_pnw/armor/14_sho/pnw_50_sho_0003
@@ -6483,6 +6660,7 @@
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0039
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0069_01
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0049_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_00_ub_0034_01
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0063
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0045
 1_pc/5_pbw/armor/9_upperbody/pbw_ew_ub_0031_dm
@@ -6507,6 +6685,7 @@
 1_pc/13_pnw/armor/14_sho/pnw_sd_sho_0001_02
 1_pc/12_pkw/armor/9_upperbody/pkw_10_ub_0012
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0080_a1_02_w
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0097_b1
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0056
 1_pc/28_pmyf/armor/14_sho/pmyf_sw_sho_0219
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0052_01
@@ -6664,8 +6843,10 @@
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0043_dm
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0015
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0097_b1_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_50_cloak_0010_p
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0080_a3_w
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0003
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0002_e
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0024_w
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0098_a1
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0022
@@ -6708,6 +6889,7 @@
 1_pc/16_pcw/armor/10_lowerbody/pcw_ew_lb_0030_dm
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0012
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0045_02
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0066
 1_pc/27_pkow/armor/10_lowerbody/pkow_50_lb_0008
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0080_b2_02
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0043_dm
@@ -6735,6 +6917,7 @@
 1_pc/3_pew/armor/11_hand/pew_10_hand_0093
 1_pc/7_pvw/armor/9_upperbody/pvw_00_ub_0007_04
 1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0015_01
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0015_02
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0089_a2
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0048_dm
 1_pc/15_pdw/armor/9_upperbody/pdw_00_ub_0245_mul_na
@@ -6774,6 +6957,7 @@
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0014
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0080_b2_01_mul
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0041
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0013_e
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0098_a1_01
 1_pc/25_pqw/armor/11_hand/pqw_10_hand_0051
 1_pc/8_pww/armor/11_hand/pww_10_hand_0334
@@ -6788,11 +6972,13 @@
 1_pc/8_pww/armor/9_upperbody/pww_00_ub_0204_dm
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0047
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0071_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0015
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0013_p
 1_pc/27_pkow/event_costume/pkow_00_contribute_0101_e
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0095_a2
 1_pc/7_pvw/armor/10_lowerbody/pvw_00_lb_0007_03
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0003
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0050
 1_pc/21_ppw/armor/9_upperbody/ppw_50_ub_0001_dm_e
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0070_01
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0034_dm
@@ -6813,6 +6999,7 @@
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0047_dm_w
 1_pc/28_pmyf/armor/11_hand/pmyf_10_hand_0038_dm
 1_pc/3_pew/armor/11_hand/pew_00_hand_0034
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0013
 1_pc/29_pnyw/armor/11_hand/pnyw_00_hand_0007_03
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0011
 1_pc/8_pww/armor/14_sho/pww_10_sho_0034_dm
@@ -6913,12 +7100,14 @@
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0096
 1_pc/2_phw/armor/9_upperbody/phw_00_ub_0206_dm
 1_pc/29_pnyw/armor/14_sho/pnyw_10_sho_0060_w
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0089_a1
 1_pc/16_pcw/armor/11_hand/pcw_00_hand_0002
 1_pc/2_phw/armor/14_sho/phw_10_sho_0080_b2_v
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0080_b1_01
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0098_a2
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0007
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0069_01
+1_pc/32_pwge/armor/14_sho/pwge_10_sho_0055_w
 1_pc/22_pkww/armor/9_upperbody/pkww_00_ub_0085_dm
 1_pc/7_pvw/armor/14_sho/pvw_00_sho_0204
 1_pc/5_pbw/armor/19_cloak/pbw_00_cloak_0248
@@ -6990,6 +7179,7 @@
 1_pc/21_ppw/armor/11_hand/ppw_10_hand_0069_01
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0050
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0205_dm
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0089_a3_01
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0033
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0043
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0030
@@ -7029,7 +7219,9 @@
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0080_a2_03
 1_pc/11_pgw/event_costume/pgw_00_manufacture_0006_e
 1_pc/8_pww/armor/14_sho/pww_10_sho_0080_a2_02_w
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0006_dm
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0061
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0014_01
 1_pc/32_pwge/armor/19_cloak/pwge_10_cloak_0063_dm_w
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0016
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0067
@@ -7278,6 +7470,7 @@
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0023
 1_pc/8_pww/armor/10_lowerbody/pww_hw_lb_0031
 1_pc/27_pkow/armor/11_hand/pkow_00_hand_0034_dm
+1_pc/33_pdkl/event_costume/pdkl_00_manufacture_0005_e
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0052_dm
 1_pc/13_pnw/armor/19_cloak/pnw_00_cloak_0001
 1_pc/21_ppw/event_costume_hel/ppw_00_contribute_hel_0102_mul
@@ -7294,6 +7487,7 @@
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0080_a3
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0070_dm
 1_pc/3_pew/armor/19_cloak/pew_10_cloak_0098_a1
+1_pc/33_pdkl/armor/9_upperbody/pdkl_00_ub_0007_04
 1_pc/3_pew/armor/14_sho/pew_10_sho_0096_dm_w
 1_pc/17_psw/event_costume/psw_00_contribute_0013_mul_na_e
 1_pc/7_pvw/armor/11_hand/pvw_00_hand_0001
@@ -7337,6 +7531,7 @@
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0066
 1_pc/17_psw/armor/9_upperbody/psw_00_ub_0267_mul
 1_pc/3_pew/armor/14_sho/pew_10_sho_0080_a2_w
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0070_01
 1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0095_a3
 1_pc/5_pbw/event_costume/pbw_00_contribute_0104_e
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0095_a1
@@ -7351,6 +7546,7 @@
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0013_w
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0055_dm
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0015_03
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0205_dm
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0044
 1_pc/28_pmyf/armor/11_hand/pmyf_10_hand_0205
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0016
@@ -7362,12 +7558,14 @@
 1_pc/29_pnyw/armor/11_hand/pnyw_00_hand_0007
 1_pc/15_pdw/armor/9_upperbody/pdw_00_ub_0031_mul_na
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0025_w
+1_pc/33_pdkl/armor/11_hand/pdkl_00_hand_0034_01
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0043_w
 1_pc/3_pew/armor/14_sho/pew_00_sho_0034_w
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0042_mul
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0040_dm
 1_pc/8_pww/event_costume_hel/pww_00_contribute_hel_0109_d
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0040_01
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0061
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0080_b2_mul_na
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0033_w
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0083_dm
@@ -7460,6 +7658,7 @@
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0038
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0054_dm
 1_pc/3_pew/armor/14_sho/pew_10_sho_0099_dm_w
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0070_01_dm
 1_pc/8_pww/armor/19_cloak/pww_00_cloak_0242
 1_pc/22_pkww/armor/9_upperbody/pkww_bw_ub_0017_dm
 1_pc/25_pqw/armor/19_cloak/pqw_50_cloak_0010_p
@@ -7540,6 +7739,7 @@
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0050_dm
 1_pc/11_pgw/armor/19_cloak/pgw_00_cloak_0033_w
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0083
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0062_01_w
 1_pc/13_pnw/armor/9_upperbody/pnw_ew_ub_0033
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0097_a1
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0083
@@ -7570,6 +7770,7 @@
 1_pc/17_psw/armor/14_sho/psw_10_sho_0089_a2_mul
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0095_a2
 1_pc/21_ppw/armor/9_upperbody/ppw_50_ub_0001_mul_e
+1_pc/33_pdkl/armor/19_cloak/pdkl_vw_cloak_0134
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0014_01
 1_pc/24_pfw/armor/11_hand/pfw_00_hand_0037_dm
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0067_01_dm
@@ -7598,6 +7799,8 @@
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0083
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0055_01_dm_w
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0044
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0040
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0001
 1_pc/13_pnw/armor/9_upperbody/pnw_00_ub_0072
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0099
 1_pc/11_pgw/armor/11_hand/pgw_10_hand_0003
@@ -7616,6 +7819,7 @@
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0094_a1
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0047_dm_w
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0012
+1_pc/33_pdkl/armor/14_sho/pdkl_pw_sho_0256_dm
 1_pc/13_pnw/armor/9_upperbody/pnw_00_ub_0071
 1_pc/17_psw/event_costume/psw_00_contribute_0013_e
 1_pc/2_phw/armor/11_hand/phw_00_hand_0037
@@ -7623,6 +7827,7 @@
 1_pc/3_pew/armor/19_cloak/pew_10_cloak_0074_dm_w
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0022
 1_pc/5_pbw/armor/11_hand/pbw_lw_hand_0006
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_50_lb_0010
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0014_01_mul
 1_pc/13_pnw/armor/10_lowerbody/pnw_00_lb_0091
 1_pc/3_pew/armor/14_sho/pew_10_sho_0205
@@ -7638,6 +7843,7 @@
 1_pc/17_psw/armor/14_sho/psw_10_sho_0047
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0060_dm
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0057_dm
+1_pc/33_pdkl/armor/11_hand/pdkl_00_hand_0037
 1_pc/8_pww/armor/19_cloak/pww_00_cloak_0052_dm
 1_pc/3_pew/armor/14_sho/pew_00_sho_0045
 1_pc/22_pkww/armor/10_lowerbody/pkww_00_lb_0156
@@ -7792,6 +7998,7 @@
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0054_dm
 1_pc/8_pww/armor/11_hand/pww_10_hand_0334_ef2_01
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0027_03_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0013_p
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0080_a3_01
 1_pc/22_pkww/armor/10_lowerbody/pkww_ww_lb_0064_dm
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0027_02_dm
@@ -7860,6 +8067,7 @@
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0028_f
 1_pc/29_pnyw/armor/9_upperbody/pnyw_00_ub_0037
 1_pc/8_pww/armor/10_lowerbody/pww_00_lb_0276_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0015_03
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0027_01_dm
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0007
 1_pc/21_ppw/armor/11_hand/ppw_10_hand_0062
@@ -7900,6 +8108,7 @@
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0053
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0024_mul
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0001
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0067_01
 1_pc/17_psw/armor/9_upperbody/psw_hw_ub_0043_dm
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0089_a3_w
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0058_01
@@ -7911,6 +8120,7 @@
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0099
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0080_a1_01_w
 1_pc/12_pkw/armor/11_hand/pkw_10_hand_0010
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0053
 1_pc/29_pnyw/armor/19_cloak/pnyw_10_cloak_0058_01
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0088_dm
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0042_p
@@ -7976,6 +8186,7 @@
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0001
 1_pc/2_phw/armor/11_hand/phw_10_hand_0016_w
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0047_mul_na
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0063_dm
 1_pc/8_pww/event_costume/pww_00_contribute_0014_e
 1_pc/8_pww/armor/14_sho/pww_10_sho_0063_01
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0055
@@ -8123,6 +8334,7 @@
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0052_03
 1_pc/21_ppw/event_costume/ppw_00_contribute_0002_e
 1_pc/28_pmyf/armor/19_cloak/pmyf_00_cloak_0270_dm_p
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0051_dm
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0205_dm
 1_pc/24_pfw/armor/10_lowerbody/pfw_00_lb_0266_01
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0030
@@ -8245,6 +8457,7 @@
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0041_dm
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0040
 1_pc/7_pvw/event_costume/pvw_00_contribute_0107_e
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0006
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0066
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0008
 1_pc/8_pww/armor/10_lowerbody/pww_00_lb_0007_04_dm
@@ -8413,6 +8626,7 @@
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0080_a1_02_w
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0020
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0048_dm_w
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0061
 1_pc/24_pfw/armor/11_hand/pfw_10_hand_0083
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0040_01_dm
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0014
@@ -8432,6 +8646,7 @@
 1_pc/12_pkw/armor/9_upperbody/pkw_00_ub_0034_01_dm
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0067
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0050_w
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0015
 1_pc/5_pbw/armor/9_upperbody/pbw_00_ub_0046
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0334
 1_pc/28_pmyf/armor/14_sho/pmyf_50_sho_0002
@@ -8457,6 +8672,7 @@
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0093_01_w
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0035_dm
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0062_mul
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_vw_lb_0058_dm
 1_pc/28_pmyf/armor/11_hand/pmyf_10_hand_0093
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0037
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0008_mul
@@ -8506,6 +8722,7 @@
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0080_b2_02_w
 1_pc/16_pcw/armor/9_upperbody/pcw_00_ub_0194
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0025
+1_pc/33_pdkl/armor/11_hand/pdkl_00_hand_0007_04
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0057
 1_pc/28_pmyf/event_costume/pmyf_00_contribute_0102_e
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0066
@@ -8518,6 +8735,7 @@
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0094_b1
 1_pc/28_pmyf/armor/9_upperbody/pmyf_00_ub_0270_dm
 1_pc/15_pdw/armor/19_cloak/pdw_00_cloak_0033
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_50_lb_0003
 1_pc/11_pgw/armor/14_sho/pgw_sd_10_sho_0033
 1_pc/21_ppw/event_costume/ppw_00_contribute_0109_mul_na_e
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0029
@@ -8530,6 +8748,7 @@
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0021_01_dm
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0080_a4_01
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0045_01_mul
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0334_ef2_dm
 1_pc/8_pww/armor/11_hand/pww_ew_hand_0030_dm
 1_pc/15_pdw/armor/19_cloak/pdw_00_cloak_0007_04_w
 1_pc/32_pwge/armor/9_upperbody/pwge_00_ub_0037
@@ -8539,6 +8758,7 @@
 1_pc/5_pbw/armor/19_cloak/pbw_00_cloak_0248_dm
 1_pc/12_pkw/armor/10_lowerbody/pkw_hw_lb_0031
 1_pc/25_pqw/armor/19_cloak/pqw_10_cloak_0080_a4
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_vw_lb_0058
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0053
 1_pc/29_pnyw/armor/19_cloak/pnyw_10_cloak_0058_dm
 1_pc/15_pdw/armor/9_upperbody/pdw_00_ub_0031_dm
@@ -8665,11 +8885,13 @@
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0021_01
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0080_b1_mul_na
 1_pc/29_pnyw/armor/11_hand/pnyw_10_hand_0089_a4
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0205
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0052_03
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0037
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0089_a2_01
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0080_a1
 1_pc/3_pew/armor/11_hand/pew_10_hand_0006
+1_pc/33_pdkl/armor/11_hand/pdkl_00_hand_0001
 1_pc/5_pbw/event_costume_hel/pbw_00_contribute_hel_0106
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0088_dm
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0015_01_mul
@@ -8700,6 +8922,7 @@
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0099
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0050_dm_w
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0066_dm_w
+1_pc/33_pdkl/armor/9_upperbody/pdkl_50_ub_0003_e
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0031
 1_pc/3_pew/armor/19_cloak/pew_00_cloak_0176_dm_w
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0043_dm
@@ -8736,6 +8959,7 @@
 1_pc/7_pvw/armor/9_upperbody/pvw_00_ub_0007_03
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0039
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0054_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_pw_ub_0256_dm
 1_pc/7_pvw/armor/14_sho/pvw_00_sho_0120_01
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0029
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0096
@@ -8787,6 +9011,7 @@
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0020
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0080_b1_02_w
 1_pc/3_pew/armor/19_cloak/pew_10_cloak_0089_a2_01
+1_pc/33_pdkl/armor/14_sho/pdkl_00_sho_0001_01
 1_pc/3_pew/armor/19_cloak/pew_10_cloak_0015_w
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0011
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0099
@@ -8815,6 +9040,7 @@
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0334_ef2
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0088
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0009
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0099_dm
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0048
 1_pc/3_pew/armor/9_upperbody/pew_kw_ub_0001
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0098_a2_mul_na
@@ -8850,6 +9076,7 @@
 1_pc/22_pkww/armor/11_hand/pkww_10_hand_0063
 1_pc/11_pgw/armor/11_hand/pgw_10_hand_0096
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0047_01
+1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0055
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0033_mul_na
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0040_01_dm
 1_pc/21_ppw/armor/9_upperbody/pdw_10_ub_0099_dm
@@ -8871,6 +9098,7 @@
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0210_01
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0094_a1_mul
 1_pc/25_pqw/event_costume_hel/pqw_00_contribute_hel_0109_d
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0210_dm
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0098_b1
 1_pc/25_pqw/armor/10_lowerbody/pqw_50_lb_0003
 1_pc/3_pew/event_costume_hel/pew_00_contribute_hel_0106
@@ -8897,6 +9125,7 @@
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0026_dm
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0070_dm
 1_pc/32_pwge/armor/9_upperbody/pwge_50_ub_0008_k
+1_pc/33_pdkl/armor/14_sho/pdkl_vw_sho_0134_dm
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0098_a1_01
 1_pc/11_pgw/armor/11_hand/pgw_10_hand_0025
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0031
@@ -9041,6 +9270,7 @@
 1_pc/28_pmyf/event_costume/pmyf_00_contribute_0008_e
 1_pc/7_pvw/armor/11_hand/pvw_00_hand_0035
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0098_b1_01_w
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0050_dm
 1_pc/2_phw/armor/11_hand/phw_10_hand_0094_b1
 1_pc/5_pbw/event_costume/pbw_00_contribute_0107_e
 1_pc/13_pnw/armor/11_hand/pnw_10_hand_0015_01
@@ -9085,6 +9315,7 @@
 1_pc/28_pmyf/armor/14_sho/pmyf_00_sho_0002
 1_pc/13_pnw/armor/11_hand/pnw_10_hand_0035
 1_pc/15_pdw/armor/9_upperbody/pdw_00_ub_0002_dm
+1_pc/33_pdkl/armor/11_hand/pdkl_00_hand_0034_dm
 1_pc/21_ppw/armor/10_lowerbody/ppw_50_lb_0007
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0061
 1_pc/15_pdw/armor/19_cloak/pdw_vw_cloak_0058
@@ -9109,6 +9340,7 @@
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0061_dm
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0015_03
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0071
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0205
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0041
 1_pc/8_pww/armor/19_cloak/pww_00_cloak_0103_01_dm
 1_pc/15_pdw/event_costume/pdw_00_contribute_0005_e
@@ -9123,6 +9355,7 @@
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0037
 1_pc/22_pkww/armor/19_cloak/pkww_00_cloak_0270_dm_p
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_ko_lb_0002_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0097
 1_pc/24_pfw/armor/19_cloak/pfw_10_cloak_0028_p
 1_pc/13_pnw/armor/11_hand/pnw_10_hand_0047_01
 1_pc/8_pww/armor/14_sho/pww_10_sho_0066_w
@@ -9159,6 +9392,7 @@
 1_pc/17_psw/armor/14_sho/psw_10_sho_0097
 1_pc/15_pdw/event_costume/pdw_00_contribute_0003_mul_e
 1_pc/2_phw/event_costume/phw_00_contribute_0104_e
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0053
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0205
 1_pc/15_pdw/armor/10_lowerbody/pdw_50_lb_0001
 1_pc/13_pnw/armor/10_lowerbody/pnw_ew_lb_0033_dm
@@ -9306,6 +9540,7 @@
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0075_01_w
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0052_02
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0058
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0205_dm
 1_pc/32_pwge/armor/9_upperbody/pwge_00_ub_0001
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0080_a3_03
 1_pc/3_pew/armor/10_lowerbody/pew_00_lb_0080_dm
@@ -9400,6 +9635,7 @@
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0015_mul_na
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0094_b1
 1_pc/15_pdw/event_costume/pdw_00_contribute_0108_e
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0003_e
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0012
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0069
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0080_b2_03_mul
@@ -9463,11 +9699,13 @@
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0089_a2_01
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0093
 1_pc/8_pww/armor/10_lowerbody/pww_ew_lb_0031
+1_pc/32_pwge/armor/19_cloak/pwge_10_cloak_0050_w
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0075_01
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0055
 1_pc/17_psw/armor/10_lowerbody/psw_00_lb_0145_mul
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0027_dm
 1_pc/24_pfw/armor/19_cloak/pfw_00_cloak_0007_04_w
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0097_b1_01_dm
 1_pc/22_pkww/armor/9_upperbody/pkww_00_ub_0156_dm
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0089_a4_01
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_00_lb_0037_dm
@@ -9592,6 +9830,7 @@
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0016_dm
 1_pc/29_pnyw/armor/14_sho/pnyw_10_sho_0053_dm
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0055_dm_w
+1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0050
 1_pc/22_pkww/armor/9_upperbody/pkww_fw_ub_0001_dm
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0045_02
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0023
@@ -9714,6 +9953,7 @@
 1_pc/22_pkww/event_costume/pkww_00_contribute_0101_e
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0014
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0053_01
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0205
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0009
 1_pc/13_pnw/armor/9_upperbody/pnw_sd_ub_0001_01
 1_pc/2_phw/armor/14_sho/phw_10_sho_0008
@@ -9756,6 +9996,7 @@
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0083_dm
 1_pc/29_pnyw/armor/9_upperbody/pnyw_00_ub_0034_dm
 1_pc/17_psw/armor/10_lowerbody/psw_00_lb_0003_mul
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0060
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0056_dm
 1_pc/28_pmyf/armor/11_hand/pmyf_00_hand_0001
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0047_dm
@@ -9782,6 +10023,7 @@
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0096_dm
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0061_dm
 1_pc/17_psw/armor/11_hand/psw_00_hand_0267
+1_pc/33_pdkl/armor/9_upperbody/pdkl_00_ub_0034
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0089_a2
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0075_01_dm
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0026
@@ -9794,6 +10036,7 @@
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0015_01
 1_pc/3_pew/event_costume_hel/pew_00_contribute_hel_0102
 1_pc/8_pww/armor/14_sho/pww_hw_sho_0031
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0009_e
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0015_01_p
 1_pc/2_phw/armor/14_sho/phw_10_sho_0054_dm
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0080_b2
@@ -9824,6 +10067,7 @@
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0096
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0210
 1_pc/7_pvw/armor/11_hand/pvw_00_hand_0007
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0015_02
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0060_w
 1_pc/15_pdw/armor/9_upperbody/pdw_00_ub_0261_mul
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0080_a1_01_mul
@@ -9838,6 +10082,7 @@
 1_pc/21_ppw/armor/19_cloak/ppw_vw_cloak_0002_p
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0334
 1_pc/29_pnyw/armor/11_hand/pnyw_00_hand_0001_01
+1_pc/33_pdkl/armor/11_hand/pdkl_pw_hand_0256
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0057
 1_pc/28_pmyf/armor/11_hand/pmyf_10_hand_0094_a1
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0042
@@ -9905,6 +10150,7 @@
 1_pc/3_pew/armor/14_sho/pew_10_sho_0035
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0022
 1_pc/25_pqw/armor/19_cloak/pqw_50_cloak_0008_p
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0040_02_dm
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0058_mul
 1_pc/28_pmyf/armor/19_cloak/pmyf_00_cloak_0007_04_dm_w
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0006
@@ -10003,6 +10249,7 @@
 1_pc/2_phw/armor/11_hand/phw_10_hand_0015_02
 1_pc/3_pew/armor/19_cloak/pew_10_cloak_0025_dm_w
 1_pc/3_pew/armor/19_cloak/pew_00_cloak_0033
+1_pc/33_pdkl/event_costume/pdkl_10_treedummer_0004_e
 1_pc/21_ppw/armor/14_sho/ppw_00_sho_0274
 1_pc/5_pbw/armor/11_hand/pbw_00_hand_0105
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0099_01_w
@@ -10042,6 +10289,7 @@
 1_pc/17_psw/armor/14_sho/psw_10_sho_0067_01
 1_pc/17_psw/armor/9_upperbody/psw_50_ub_0001_mul_e_dm
 1_pc/32_pwge/armor/19_cloak/pwge_10_cloak_0028_p
+1_pc/32_pwge/armor/11_hand/pwge_10_hand_0050
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0010
 1_pc/8_pww/armor/14_sho/pww_10_sho_0050
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0088_dm
@@ -10064,6 +10312,7 @@
 1_pc/16_pcw/armor/11_hand/pcw_04_hand_0003
 1_pc/8_pww/armor/14_sho/pww_10_sho_0023
 1_pc/21_ppw/armor/9_upperbody/ppw_00_ub_0215
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0055
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0061
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0055_w
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0040
@@ -10097,6 +10346,7 @@
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0014
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0034
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0096_dm_w
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0014_01
 1_pc/27_pkow/armor/11_hand/pkow_00_hand_0037_dm
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0334
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0039_dm_w
@@ -10109,6 +10359,7 @@
 1_pc/24_pfw/armor/19_cloak/pfw_10_cloak_0210
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0055
 1_pc/7_pvw/armor/14_sho/pvw_00_sho_0277
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0053
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0049
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0048
 1_pc/22_pkww/armor/11_hand/pkww_00_hand_0038_dm
@@ -10166,10 +10417,12 @@
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0024
 1_pc/5_pbw/armor/11_hand/pbw_00_hand_0046_01
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0047
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0028_dm_p
 1_pc/11_pgw/armor/11_hand/pgw_10_hand_0088
 1_pc/3_pew/armor/14_sho/pew_10_sho_0099_01_w
 1_pc/24_pfw/armor/19_cloak/pfw_10_cloak_0088
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0055_w
+1_pc/33_pdkl/armor/9_upperbody/pdkl_00_ub_0001
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0029
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0043
 1_pc/2_phw/armor/11_hand/phw_10_hand_0021
@@ -10209,6 +10462,7 @@
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0080_a2_01
 1_pc/8_pww/armor/19_cloak/pww_pw_cloak_0001_p
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0080_b2
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0055
 1_pc/22_pkww/armor/11_hand/pkww_fw_hand_0001
 1_pc/22_pkww/armor/19_cloak/pkww_00_cloak_0072_dm
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0070_01
@@ -10263,6 +10517,7 @@
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0050
 1_pc/21_ppw/event_costume/ppw_00_contribute_0103_mul_na_e
 1_pc/7_pvw/armor/19_cloak/pvw_00_cloak_0272
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0040_03
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0088_dm
 1_pc/25_pqw/event_costume_hel/pqw_00_contribute_hel_0014_d
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0097_b1
@@ -10328,6 +10583,7 @@
 1_pc/25_pqw/armor/11_hand/pqw_00_hand_0034_01_dm
 1_pc/16_pcw/armor/9_upperbody/pcw_00_ub_0033_mul
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0094_a1
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0028_w
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0334_ef1
 1_pc/2_phw/armor/10_lowerbody/phw_00_lb_0052
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0066_dm_w
@@ -10459,6 +10715,7 @@
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0069
 1_pc/17_psw/armor/11_hand/psw_04_hand_0003_01
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0067_dm
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_50_lb_0008
 1_pc/25_pqw/event_costume/pqw_00_contribute_clock_0111_c
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0080_a4_03
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0047
@@ -10518,6 +10775,7 @@
 1_pc/24_pfw/armor/14_sho/pfw_00_sho_0266_dm
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0058_w
 1_pc/21_ppw/armor/11_hand/ppw_00_hand_0247_02
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0060_dm
 1_pc/2_phw/armor/9_upperbody/phw_00_ub_0040_dm
 1_pc/8_pww/armor/14_sho/pww_10_sho_0099_dm_w
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0034_w
@@ -10526,6 +10784,7 @@
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0066
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0027_01_dm
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0031
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0061
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0098_b2
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0023
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0334_w
@@ -10573,12 +10832,14 @@
 1_pc/16_pcw/armor/19_cloak/pcw_50_cloak_0002_p
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0053_01_dm
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0083_mul_na
+1_pc/32_pwge/armor/11_hand/pwge_10_hand_0050_01
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0057
 1_pc/16_pcw/armor/11_hand/pcw_bw_hand_0017
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0021
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0040_02
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0053_01
 1_pc/24_pfw/armor/19_cloak/pfw_10_cloak_0074_w
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0028
 1_pc/15_pdw/event_costume/pdw_00_contribute_0106_e
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0059_01_w
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0098_a1
@@ -10596,6 +10857,7 @@
 1_pc/11_pgw/armor/11_hand/pgw_10_hand_0015_01
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0080_a3_02
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0089_a2_mul
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0051
 1_pc/29_pnyw/armor/11_hand/pnyw_10_hand_0041
 1_pc/2_phw/armor/14_sho/phw_10_sho_0055_01_dm_v
 1_pc/2_phw/armor/14_sho/phw_10_sho_0029
@@ -10615,6 +10877,7 @@
 1_pc/8_pww/armor/19_cloak/pww_50_cloak_0006_p
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0013_mul
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0020_01_dm
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0002_e
 1_pc/28_pmyf/armor/19_cloak/pmyf_sw_cloak_0219
 1_pc/15_pdw/armor/14_sho/pdw_00_sho_0170
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0080_a1
@@ -10653,6 +10916,7 @@
 1_pc/7_pvw/armor/9_upperbody/pvw_00_ub_0042_dm
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0066_01
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0017
+1_pc/33_pdkl/armor/9_upperbody/pdkl_vw_ub_0058
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0070_01_dm
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0083_w
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0089_a2
@@ -10690,6 +10954,7 @@
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0067_dm_w
 1_pc/32_pwge/armor/19_cloak/pwge_10_cloak_0014_01
 1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0098_b1_01
+1_pc/33_pdkl/armor/11_hand/pdkl_00_hand_0002
 1_pc/17_psw/armor/11_hand/psw_10_hand_0007
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0059
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0009_dm
@@ -10777,6 +11042,7 @@
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0061
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0052_03
 1_pc/7_pvw/armor/19_cloak/pvw_50_cloak_0001_p
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0053
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0038_dm
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0067_01
 1_pc/16_pcw/armor/19_cloak/pcw_10_cloak_0071_dm
@@ -10793,6 +11059,7 @@
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0052_03
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0037
 1_pc/3_pew/armor/11_hand/pew_10_hand_0014
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0039_w
 1_pc/32_pwge/armor/11_hand/pwge_10_hand_0089_a1
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0099
 1_pc/24_pfw/armor/14_sho/pfw_00_sho_0007_03
@@ -10830,6 +11097,7 @@
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0062
 1_pc/28_pmyf/armor/11_hand/pmyf_10_hand_0050_01
 1_pc/11_pgw/armor/10_lowerbody/pgw_vw_lb_0135_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0051
 1_pc/16_pcw/armor/19_cloak/pcw_10_cloak_0058_01_dm
 1_pc/13_pnw/armor/19_cloak/pnw_sd_cloak_0001
 1_pc/8_pww/armor/14_sho/pww_10_sho_0018
@@ -10851,7 +11119,9 @@
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0012_dm
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0080_a3
 1_pc/25_pqw/armor/19_cloak/pqw_10_cloak_0004_w
+1_pc/32_pwge/armor/14_sho/pwge_10_sho_0050_01_dm
 1_pc/3_pew/armor/14_sho/pew_00_sho_0072
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0205_dm
 1_pc/2_phw/armor/14_sho/phw_sw_sho_0123_dm
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0205
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0013
@@ -10882,6 +11152,7 @@
 1_pc/12_pkw/armor/9_upperbody/pkw_vw_ub_0003
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0099_p
 1_pc/16_pcw/armor/9_upperbody/pcw_00_ub_0037_dm
+1_pc/33_pdkl/event_costume_hel/pdkl_00_contribute_hel_0113
 1_pc/25_pqw/armor/19_cloak/pqw_10_cloak_0048_dm_w
 1_pc/22_pkww/armor/14_sho/pkww_00_sho_0094_dm
 1_pc/8_pww/armor/10_lowerbody/pww_00_lb_0064_dm
@@ -10890,6 +11161,7 @@
 1_pc/2_phw/armor/19_cloak/phw_ew_cloak_0033_01_dm
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0048_w
 1_pc/3_pew/event_costume/pew_00_contribute_0006_e
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0099
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0075_dm
 1_pc/13_pnw/armor/11_hand/pnw_10_hand_0012
 1_pc/17_psw/armor/14_sho/psw_10_sho_0037_mul
@@ -10910,6 +11182,7 @@
 1_pc/32_pwge/armor/19_cloak/pwge_50_cloak_0006_p
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0020_01
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0049_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_50_cloak_0004_p
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0089_a2
 1_pc/16_pcw/armor/9_upperbody/pcw_00_ub_0035
 1_pc/11_pgw/armor/9_upperbody/pgw_dw_ub_0141_dm
@@ -10995,6 +11268,7 @@
 1_pc/2_phw/armor/14_sho/phw_10_sho_0089_a1_01
 1_pc/2_phw/armor/11_hand/phw_00_hand_0043
 1_pc/3_pew/armor/11_hand/pew_00_hand_0033_01_dm
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_50_lb_0007
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0053_01_dm
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0027_03_dm
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0045
@@ -11014,6 +11288,7 @@
 1_pc/16_pcw/armor/19_cloak/pcw_10_cloak_0062_dm
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0047
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0093
+1_pc/33_pdkl/armor/14_sho/pdkl_00_sho_0007_03
 1_pc/25_pqw/armor/11_hand/pqw_10_hand_0071
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0033_dm
 1_pc/16_pcw/armor/19_cloak/pcw_10_cloak_0099_p
@@ -11092,6 +11367,7 @@
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0099_mul
 1_pc/25_pqw/armor/19_cloak/pqw_00_cloak_0274
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0097_a1_01_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_00_cloak_0007_04_w
 1_pc/25_pqw/armor/9_upperbody/pqw_00_ub_0275_dm
 1_pc/8_pww/armor/14_sho/pww_10_sho_0015_01
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0015_03
@@ -11111,6 +11387,7 @@
 1_pc/8_pww/armor/19_cloak/pww_00_cloak_0204_dm
 1_pc/3_pew/armor/10_lowerbody/pew_00_lb_0153_dm
 1_pc/22_pkww/armor/11_hand/pkww_10_hand_0080
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0060
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0056_dm
 1_pc/13_pnw/armor/9_upperbody/pnw_00_ub_0098
 1_pc/13_pnw/armor/10_lowerbody/pnw_50_lb_0002
@@ -11243,6 +11520,7 @@
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0056_w
 1_pc/28_pmyf/armor/11_hand/pmyf_10_hand_0040
 1_pc/17_psw/armor/19_cloak/psw_50_cloak_0007_mul_p
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0015
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0094_a1_w
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0080_a3_w
 1_pc/16_pcw/armor/19_cloak/pcw_10_cloak_0028_dm_p
@@ -11252,6 +11530,7 @@
 1_pc/13_pnw/armor/10_lowerbody/pnw_00_lb_0199
 1_pc/2_phw/armor/9_upperbody/phw_00_ub_0127
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0055_01_dm_w
+1_pc/33_pdkl/armor/9_upperbody/pdkl_vw_ub_0134
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0080_b1_mul
 1_pc/21_ppw/armor/9_upperbody/ppw_00_ub_0007_mul
 1_pc/11_pgw/armor/9_upperbody/pgw_00_ub_0258_dm
@@ -11314,6 +11593,7 @@
 1_pc/17_psw/armor/14_sho/psw_10_sho_0099_w
 1_pc/13_pnw/armor/9_upperbody/pnw_00_ub_0159
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0052_03
+1_pc/33_pdkl/armor/14_sho/pdkl_50_sho_0004
 1_pc/13_pnw/armor/10_lowerbody/pnw_bw_lb_0015
 1_pc/16_pcw/armor/19_cloak/pcw_10_cloak_0055_dm
 1_pc/25_pqw/event_costume/pqw_00_contribute_0013_e
@@ -11420,6 +11700,7 @@
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0080_a3_01_mul_na
 1_pc/7_pvw/armor/9_upperbody/pvw_00_ub_0161_dm
 1_pc/8_pww/armor/19_cloak/pww_00_cloak_0110_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0063_w
 1_pc/2_phw/armor/9_upperbody/phw_00_ub_0085_dm
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0075_dm
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0050
@@ -11455,6 +11736,7 @@
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0045_02
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_00_lb_0002
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0067_dm
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0097_a1_dm
 1_pc/17_psw/armor/14_sho/psw_10_sho_0030_mul
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0334_ef1
 1_pc/13_pnw/armor/11_hand/pnw_00_hand_0071_dm
@@ -11480,12 +11762,14 @@
 1_pc/7_pvw/armor/11_hand/pvw_04_hand_0002
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0031
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0080_a2_01_w
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0050_dm
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0041_dm
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0015_01
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0095_a3
 1_pc/5_pbw/armor/9_upperbody/pbw_00_ub_0081
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0026
 1_pc/3_pew/event_costume_hel/pew_00_contribute_hel_0014_d
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0040
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0016_mul
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0069_01
 1_pc/11_pgw/armor/14_sho/pgw_00_sho_0007_03
@@ -11536,6 +11820,7 @@
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0062
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0037
 1_pc/8_pww/armor/9_upperbody/pww_ew_ub_0033_01
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0089_a1_01
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0024_dm
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0334
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0013_mul_na_w
@@ -11544,9 +11829,11 @@
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0011_dm
 1_pc/32_pwge/armor/14_sho/pwge_00_sho_0033
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0067
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0099
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0052_01
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0053_dm_w
 1_pc/11_pgw/armor/11_hand/pgw_10_hand_0089_a4
+1_pc/33_pdkl/event_costume_hel/pdkl_00_manufacture_hel_0001_d
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0045
 1_pc/17_psw/armor/11_hand/psw_04_hand_0003
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0095_a3
@@ -11581,6 +11868,7 @@
 1_pc/8_pww/armor/10_lowerbody/pww_50_lb_0010
 1_pc/15_pdw/armor/11_hand/pdw_00_hand_0037_dm
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0003_w
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0067_w
 1_pc/13_pnw/armor/19_cloak/pnw_00_cloak_0275_dm_w
 1_pc/2_phw/event_costume/phw_00_contribute_0101_e
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0025
@@ -11672,6 +11960,7 @@
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0058
 1_pc/15_pdw/armor/11_hand/pdw_00_hand_0245_02
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0205
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0334
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0098_b1
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0047_dm
 1_pc/13_pnw/armor/10_lowerbody/pnw_kw_lb_0235
@@ -11714,6 +12003,7 @@
 1_pc/32_pwge/armor/19_cloak/pwge_10_cloak_0058
 1_pc/3_pew/armor/14_sho/pew_10_sho_0094_b1_w
 1_pc/28_pmyf/armor/11_hand/pmyf_10_hand_0098_b1
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0040
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0040
 1_pc/7_pvw/armor/9_upperbody/pvw_00_ub_0040_dm
 1_pc/28_pmyf/event_costume/pmyf_00_contribute_0009_e
@@ -11828,7 +12118,9 @@
 1_pc/3_pew/armor/14_sho/pew_10_sho_0050
 1_pc/8_pww/armor/9_upperbody/pww_bw_ub_0017
 1_pc/3_pew/armor/14_sho/pew_10_sho_0094_a1_01_w
+1_pc/33_pdkl/armor/9_upperbody/pdkl_50_ub_0008_k
 1_pc/29_pnyw/armor/19_cloak/pnyw_10_cloak_0089_a1
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0001_e
 1_pc/27_pkow/armor/9_upperbody/pkow_00_ub_0007_01_dm
 1_pc/29_pnyw/armor/14_sho/pnyw_10_sho_0094_a1_w
 1_pc/7_pvw/armor/9_upperbody/pvw_cw_ub_0002
@@ -11888,6 +12180,7 @@
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0205_01
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0027_01
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0063
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0015_01
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0012_dm
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0038_dm
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0007
@@ -11895,6 +12188,7 @@
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0027_02
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0043_dm
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0016_dm_w
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0055
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0080_b2
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0015_01
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0049_dm
@@ -11930,6 +12224,7 @@
 1_pc/16_pcw/armor/11_hand/pcw_00_hand_0037
 1_pc/15_pdw/armor/11_hand/pdw_04_hand_0002_01
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0030
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0003
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0007_mul
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0029
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0069_01
@@ -11985,6 +12280,7 @@
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0080_a4_03_w
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0088_01
 1_pc/24_pfw/armor/11_hand/pfw_00_hand_0250
+1_pc/33_pdkl/armor/19_cloak/pdkl_00_cloak_0007_04_dm_w
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0062_01_w
 1_pc/7_pvw/armor/19_cloak/pvw_ew_cloak_0033_01_dm
 1_pc/3_pew/armor/14_sho/pew_10_sho_0089_a1_01
@@ -12158,6 +12454,7 @@
 1_pc/16_pcw/armor/11_hand/pcw_00_hand_0251_02
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0007_dm
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0003
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0055_w
 1_pc/24_pfw/armor/10_lowerbody/pfw_ew_lb_0033_dm
 1_pc/2_phw/armor/10_lowerbody/phw_sd_lb_0002_02
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0098_b1
@@ -12186,6 +12483,7 @@
 1_pc/29_pnyw/armor/19_cloak/pnyw_50_cloak_0002_p
 1_pc/29_pnyw/armor/14_sho/pnyw_10_sho_0080_a3_02_w
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0015_02
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0028_dm_f
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0080_a1_03
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0089_a1
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0040_01_dm
@@ -12242,6 +12540,7 @@
 1_pc/24_pfw/armor/10_lowerbody/pfw_00_lb_0001
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0030_mul
 1_pc/2_phw/armor/11_hand/phw_10_hand_0060
+1_pc/32_pwge/armor/14_sho/pwge_10_sho_0055_01_dm_w
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0089_a2
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0066
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0083_mul_w
@@ -12297,6 +12596,7 @@
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0055_dm
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0054_dm
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0045
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0006
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0002_e
 1_pc/2_phw/armor/14_sho/phw_10_sho_0048
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0033_dm
@@ -12345,6 +12645,7 @@
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0027
 1_pc/8_pww/armor/14_sho/pww_00_sho_0276
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0075_w
+1_pc/32_pwge/armor/19_cloak/pwge_10_cloak_0050_dm_w
 1_pc/27_pkow/armor/11_hand/pkow_00_hand_0034
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_00_lb_0007_03_dm
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0088_01
@@ -12459,6 +12760,7 @@
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0099_01_w
 1_pc/2_phw/armor/9_upperbody/phw_sw_ub_0123_dm
 1_pc/5_pbw/armor/19_cloak/pbw_50_cloak_0004_p
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0055_dm
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0053
 1_pc/17_psw/armor/14_sho/psw_10_sho_0007
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0080_b1
@@ -12504,6 +12806,7 @@
 1_pc/8_pww/armor/9_upperbody/pww_50_ub_0002_e
 1_pc/11_pgw/armor/14_sho/pgw_50_sho_0007
 1_pc/16_pcw/armor/14_sho/pcw_cm_sho_0230
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0067
 1_pc/2_phw/armor/11_hand/phw_vw_hand_0003
 1_pc/21_ppw/armor/11_hand/ppw_00_hand_0034_mul
 1_pc/17_psw/event_costume/psw_00_contribute_0010_dm_e
@@ -12534,6 +12837,7 @@
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0020_dm
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0040_mul_na
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0027_02_mul
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0050_dm
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0080_b2_mul_na
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0062_01_w
 1_pc/24_pfw/armor/19_cloak/pfw_10_cloak_0094_a1
@@ -12551,6 +12855,7 @@
 1_pc/17_psw/armor/14_sho/psw_10_sho_0040_dm
 1_pc/16_pcw/armor/11_hand/pcw_00_hand_0040_01
 1_pc/32_pwge/armor/19_cloak/pwge_10_cloak_0067_dm_w
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0014
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0029
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0075
 1_pc/16_pcw/event_costume/pcw_00_contribute_0013_e
@@ -12580,8 +12885,10 @@
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0015_03
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0045_dm
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0061_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0067_dm
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0014
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0050_dm
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0097_a1
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0040_dm_w
 1_pc/13_pnw/armor/10_lowerbody/pnw_sw_lb_0002
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0021
@@ -12599,6 +12906,7 @@
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0050
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0334_w
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0093_01
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0210
 1_pc/3_pew/armor/14_sho/pew_00_sho_0080_dm
 1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0030
 1_pc/2_phw/armor/14_sho/phw_10_sho_0070_01
@@ -12664,6 +12972,7 @@
 1_pc/2_phw/armor/14_sho/phw_50_sho_0001
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0080_b2_01
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0080_a1_01_w
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0040_02
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0080_b1_01_w
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0052
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0060_dm_w
@@ -12694,6 +13003,7 @@
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0053_dm
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0030_dm
 1_pc/15_pdw/event_costume/pdw_10_treedummer_0004_dm_e
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0099_w
 1_pc/25_pqw/armor/11_hand/pqw_00_hand_0275
 1_pc/8_pww/armor/11_hand/pww_10_hand_0067
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0001
@@ -12729,7 +13039,9 @@
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0066
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0055_01
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0088_01
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_vw_lb_0134
 1_pc/17_psw/armor/10_lowerbody/psw_00_lb_0266_01
+1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0055_dm
 1_pc/2_phw/armor/14_sho/phw_10_sho_0334_01
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0007_dm
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0334
@@ -12818,6 +13130,7 @@
 1_pc/11_pgw/armor/19_cloak/pgw_00_cloak_0002_dm_c
 1_pc/8_pww/event_costume/pww_00_contribute_0008_e
 1_pc/25_pqw/armor/19_cloak/pqw_10_cloak_0061_dm
+1_pc/33_pdkl/armor/14_sho/pdkl_00_sho_0007_04
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0052_02
 1_pc/13_pnw/event_costume/pnw_00_contribute_0009_e
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0210
@@ -12869,7 +13182,9 @@
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0089_a1
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0080_b1_02
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0095_a1
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0210_01_dm
 1_pc/15_pdw/armor/11_hand/pdw_00_hand_0141_01
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0051_dm
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0015_01
 1_pc/7_pvw/event_costume/pvw_00_contribute_0105_e
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0080_a1_03
@@ -12893,6 +13208,7 @@
 1_pc/12_pkw/armor/14_sho/pkw_10_sho_0012_dm
 1_pc/22_pkww/armor/19_cloak/pkww_00_cloak_0132_p
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0098_a1
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0069
 1_pc/32_pwge/armor/11_hand/pwge_10_hand_0061
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0021_01_w
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0039
@@ -12910,6 +13226,7 @@
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0025_dm
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0210
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0080_a1_02
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0012_dm
 1_pc/24_pfw/armor/19_cloak/pfw_10_cloak_0044_dm_w
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0080_a2_02
 1_pc/21_ppw/armor/9_upperbody/ppw_50_ub_0004_dm_e
@@ -12986,6 +13303,7 @@
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0009
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0040_01
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0016
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0053_01
 1_pc/28_pmyf/armor/14_sho/pmyf_00_sho_0132
 1_pc/8_pww/armor/11_hand/pww_10_hand_0056
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0097_b1_mul
@@ -12994,12 +13312,14 @@
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0067_01
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0047_dm
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0040
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0334
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0061_dm
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0066_dm_w
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0095_a1
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0058_01
 1_pc/3_pew/armor/9_upperbody/pew_00_ub_0072_dm
 1_pc/8_pww/armor/9_upperbody/pww_00_ub_0110_dm
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0070_01
 1_pc/5_pbw/armor/11_hand/pbw_00_hand_0164_01
 1_pc/3_pew/armor/9_upperbody/pew_00_ub_0004_dm
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0083
@@ -13026,6 +13346,7 @@
 1_pc/15_pdw/armor/10_lowerbody/pdw_00_lb_0037
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0047_dm
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0098_b1_mul
+1_pc/33_pdkl/event_costume_hel/pdkl_00_contribute_hel_0014_d
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0028_dm_p
 1_pc/3_pew/armor/11_hand/pew_00_hand_0007_01
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0080_a2_03
@@ -13062,10 +13383,13 @@
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0089_a2
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0021
 1_pc/28_pmyf/armor/11_hand/pmyf_10_hand_0049
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0012_e
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0015_03
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0070_01
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0210
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0094_b1
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0062_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0070_01
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0031_mul
 1_pc/22_pkww/armor/14_sho/pkww_ww_sho_0064_01_dm
 1_pc/3_pew/armor/9_upperbody/pew_00_ub_0009
@@ -13175,6 +13499,7 @@
 1_pc/27_pkow/event_costume/pkow_00_contribute_0108_e
 1_pc/8_pww/armor/9_upperbody/pww_ew_ub_0030
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0099_dm
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0099_01_dm_w
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0052_04_w
 1_pc/2_phw/armor/14_sho/phw_10_sho_0093_w
 1_pc/24_pfw/armor/10_lowerbody/pfw_00_lb_0250
@@ -13204,6 +13529,7 @@
 1_pc/15_pdw/armor/10_lowerbody/pdw_00_lb_0172_dm
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0039_mul
 1_pc/21_ppw/armor/11_hand/ppw_10_hand_0009_mul
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0099_01_w
 1_pc/15_pdw/armor/11_hand/pdw_00_hand_0121_mul
 1_pc/27_pkow/armor/11_hand/pkow_00_hand_0002
 1_pc/13_pnw/armor/11_hand/pnw_10_hand_0050
@@ -13229,6 +13555,7 @@
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0080_a3_03_w
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0070
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0334_ef1
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0334
 1_pc/11_pgw/armor/11_hand/pgw_00_hand_0001_01
 1_pc/15_pdw/armor/11_hand/pdw_00_hand_0229
 1_pc/29_pnyw/armor/19_cloak/pnyw_10_cloak_0041
@@ -13242,6 +13569,7 @@
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0050
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0205_dm
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0045_01_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0205
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0028_dm
 1_pc/8_pww/armor/14_sho/pww_10_sho_0062_w
 1_pc/2_phw/armor/11_hand/phw_10_hand_0014
@@ -13291,9 +13619,11 @@
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0015
 1_pc/28_pmyf/armor/11_hand/pmyf_00_hand_0002_01
 1_pc/32_pwge/armor/14_sho/pwge_50_sho_0006
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0050_01_dm
 1_pc/7_pvw/armor/9_upperbody/pvw_ew_ub_0033_01
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0052_02_w
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0097_b1_01
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0015
 1_pc/22_pkww/armor/19_cloak/pkww_00_cloak_0235_01
 1_pc/3_pew/armor/11_hand/pew_10_hand_0042
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0080_b1
@@ -13320,6 +13650,7 @@
 1_pc/8_pww/event_costume/pww_00_contribute_clock_0111_c
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0012
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0080_b2_01
+1_pc/33_pdkl/armor/14_sho/pdkl_50_sho_0006
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0089_a3
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0048
 1_pc/16_pcw/armor/14_sho/pcw_00_sho_0031
@@ -13350,6 +13681,7 @@
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0097_a1_01
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0012_dm
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0053
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0334_dm
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0205
 1_pc/3_pew/armor/10_lowerbody/pew_00_lb_0272_dm
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0027_dm
@@ -13358,6 +13690,7 @@
 1_pc/32_pwge/armor/11_hand/pwge_10_hand_0015_01
 1_pc/2_phw/armor/14_sho/phw_10_sho_0044_dm
 1_pc/29_pnyw/armor/11_hand/pnyw_10_hand_0210
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0089_a4_01
 1_pc/3_pew/armor/19_cloak/pew_50_cloak_0010_p
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0025
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0024_dm
@@ -13488,6 +13821,7 @@
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0050_dm
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0080_a1_w
 1_pc/11_pgw/armor/11_hand/pgw_10_hand_0054
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0205_dm
 1_pc/25_pqw/armor/11_hand/pqw_00_hand_0002
 1_pc/3_pew/event_costume/pew_00_contribute_clock_0111_c
 1_pc/24_pfw/event_costume/pfw_00_contribute_0102_e
@@ -13536,6 +13870,8 @@
 1_pc/3_pew/armor/14_sho/pew_10_sho_0055_dm_w
 1_pc/22_pkww/armor/19_cloak/pkww_50_cloak_0002_p
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0015
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_00_lb_0033_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0050_dm_w
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0057
 1_pc/28_pmyf/event_costume/pmyf_00_contribute_0003_e
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0071
@@ -13547,6 +13883,7 @@
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0205
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0095_a1
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0027_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0334_dm_w
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0205_mul_na
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0044
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0035
@@ -13562,7 +13899,9 @@
 1_pc/27_pkow/armor/11_hand/pkow_10_hand_0070
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0094_b1_mul_na
 1_pc/15_pdw/armor/11_hand/pdw_00_hand_0007
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0066_01
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0041_mul
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0050_01
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0015_01
 1_pc/3_pew/armor/10_lowerbody/pew_00_lb_0110
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0023_dm
@@ -13621,6 +13960,7 @@
 1_pc/5_pbw/armor/10_lowerbody/pbw_50_lb_0003
 1_pc/8_pww/armor/11_hand/pww_00_hand_0037_dm
 1_pc/29_pnyw/armor/19_cloak/pnyw_10_cloak_0205_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0014_01
 1_pc/24_pfw/event_costume/pfw_00_contribute_0001_e
 1_pc/2_phw/armor/14_sho/phw_00_sho_0268
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0049
@@ -13707,16 +14047,19 @@
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0066_01
 1_pc/22_pkww/armor/19_cloak/pkww_00_cloak_0235
 1_pc/32_pwge/armor/10_lowerbody/pwge_00_lb_0007_01
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0334_dm
 1_pc/3_pew/armor/14_sho/pew_10_sho_0044
 1_pc/21_ppw/armor/19_cloak/ppw_00_cloak_0274_01
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0080_b1
 1_pc/29_pnyw/event_costume/pnyw_00_contribute_0003_e
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0210
 1_pc/13_pnw/armor/11_hand/pnw_10_hand_0096
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0093_w
 1_pc/8_pww/armor/10_lowerbody/pww_ew_lb_0032
 1_pc/5_pbw/armor/14_sho/pbw_00_sho_0015
 1_pc/22_pkww/armor/11_hand/pkww_00_hand_0197
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0080_b1_03_mul
+1_pc/33_pdkl/armor/19_cloak/pdkl_vw_cloak_0058
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0067_dm
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0059_01_w
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0003
@@ -13786,6 +14129,7 @@
 1_pc/3_pew/armor/19_cloak/pew_fw_cloak_0250_dm
 1_pc/24_pfw/event_costume/pfw_00_contribute_0109_e
 1_pc/3_pew/armor/14_sho/pew_10_sho_0027_02
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0003_w
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0066
 1_pc/15_pdw/armor/9_upperbody/pdw_50_ub_0001_e
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0080_a2_02_w
@@ -13801,6 +14145,7 @@
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0093
 1_pc/29_pnyw/armor/19_cloak/pnyw_00_cloak_0239_dm_w
 1_pc/15_pdw/armor/9_upperbody/pdw_00_ub_0035_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0060
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0045_02
 1_pc/24_pfw/armor/19_cloak/pfw_10_cloak_0089_a2
 1_pc/7_pvw/armor/9_upperbody/pvw_00_ub_0127_dm
@@ -13814,6 +14159,7 @@
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0093_01_w
 1_pc/5_pbw/armor/11_hand/pbw_00_hand_0054_dm
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0062
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0013
 1_pc/3_pew/armor/11_hand/pew_10_hand_0010_dm
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0069_01
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0205
@@ -13839,6 +14185,7 @@
 1_pc/2_phw/armor/19_cloak/phw_00_cloak_0052_dm
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0048
 1_pc/21_ppw/event_costume/ppw_00_contribute_0113_mul_na_e
+1_pc/33_pdkl/armor/9_upperbody/pdkl_50_ub_0010_e
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0071_w
 1_pc/8_pww/armor/11_hand/pww_10_hand_0089_a1
 1_pc/2_phw/armor/11_hand/phw_10_hand_0029
@@ -13850,6 +14197,7 @@
 1_pc/8_pww/armor/14_sho/pww_10_sho_0055_01_dm_w
 1_pc/28_pmyf/armor/11_hand/pmyf_10_hand_0061
 1_pc/17_psw/event_costume/psw_00_contribute_0004_mul_e
+1_pc/33_pdkl/armor/19_cloak/pdkl_50_cloak_0002_p
 1_pc/32_pwge/event_costume/pwge_00_contribute_0002_e
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0061_dm_w
 1_pc/2_phw/armor/11_hand/phw_10_hand_0020_01
@@ -13978,6 +14326,7 @@
 1_pc/24_pfw/armor/11_hand/pfw_10_hand_0016_w
 1_pc/22_pkww/armor/19_cloak/pkww_50_cloak_0001_p
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0063_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0050
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0080_a1_03
 1_pc/17_psw/armor/11_hand/psw_10_hand_0052
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0334_01
@@ -13994,6 +14343,7 @@
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0055
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0097_a1_01_dm
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0098_b1_01_w
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0028
 1_pc/15_pdw/armor/14_sho/pdw_00_sho_0229_mul
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0094_a1_01
 1_pc/28_pmyf/armor/11_hand/pmyf_00_hand_0007
@@ -14002,6 +14352,7 @@
 1_pc/3_pew/armor/14_sho/pew_10_sho_0089_a1
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0008
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0027_02_dm
+1_pc/33_pdkl/armor/11_hand/pdkl_00_hand_0007_03
 1_pc/24_pfw/armor/19_cloak/pfw_10_cloak_0057
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0095_a3
 1_pc/15_pdw/armor/19_cloak/pdw_00_cloak_0121_w
@@ -14056,18 +14407,21 @@
 1_pc/15_pdw/armor/19_cloak/pdw_00_cloak_0128_dm_w
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0027_01_mul_dm
 1_pc/2_phw/armor/9_upperbody/phw_ew_ub_0031
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0062_w
 1_pc/25_pqw/armor/19_cloak/pqw_10_cloak_0063_dm_w
 1_pc/29_pnyw/armor/9_upperbody/pnyw_00_ub_0274
 1_pc/7_pvw/armor/11_hand/pvw_00_hand_0058_01
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0052_01
 1_pc/5_pbw/armor/11_hand/pbw_00_hand_0017_02
 1_pc/12_pkw/armor/14_sho/pkw_vw_sho_0003_dm
+1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0055
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0052_01
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0041_dm
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0205_dm
 1_pc/13_pnw/armor/10_lowerbody/pnw_50_lb_0008
 1_pc/7_pvw/armor/19_cloak/pvw_00_cloak_0266
 1_pc/2_phw/armor/9_upperbody/phw_00_ub_0077_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0051_w
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0093_w
 1_pc/2_phw/armor/14_sho/phw_10_sho_0027_03_dm
 1_pc/13_pnw/armor/11_hand/pnw_10_hand_0210
@@ -14079,6 +14433,7 @@
 1_pc/22_pkww/armor/9_upperbody/pkww_ew_ub_0030_dm
 1_pc/24_pfw/armor/9_upperbody/pfw_00_ub_0034_dm
 1_pc/7_pvw/armor/9_upperbody/pvw_00_ub_0274_dm
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0051
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0053_dm_w
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0093
 1_pc/24_pfw/armor/10_lowerbody/pfw_00_lb_0274
@@ -14133,6 +14488,7 @@
 1_pc/15_pdw/armor/11_hand/pdw_00_hand_0002_04
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0038_dm
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0210
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0016_dm_w
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0027_03_mul
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0030_dm
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0061_w
@@ -14178,6 +14534,7 @@
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0071
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0040_01
 1_pc/17_psw/event_costume/psw_00_manufacture_0001_k_dm
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0012_dm
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0210_mul_na_w
 1_pc/22_pkww/armor/9_upperbody/pkww_00_ub_0094
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0052_02
@@ -14258,8 +14615,10 @@
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0074_dm
 1_pc/22_pkww/armor/10_lowerbody/pkww_hw_lb_0031_dm
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0069_01
+1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0055_01_dm
 1_pc/7_pvw/armor/11_hand/pvw_00_hand_0003
 1_pc/11_pgw/armor/14_sho/pgw_sd_00_sho_0001_02
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0012
 1_pc/29_pnyw/armor/14_sho/pnyw_10_sho_0041
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0040_dm_w
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0057_dm
@@ -14311,10 +14670,12 @@
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0062
 1_pc/13_pnw/armor/9_upperbody/pnw_00_ub_0234
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0063
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0069_01
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0058_01
 1_pc/13_pnw/armor/19_cloak/pnw_sd_10_cloak_0035_w
 1_pc/22_pkww/armor/10_lowerbody/pkww_sd_lb_0001
 1_pc/5_pbw/armor/14_sho/pbw_lw_sho_0220
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0004_e
 1_pc/28_pmyf/armor/19_cloak/pmyf_50_cloak_0009_p
 1_pc/7_pvw/armor/9_upperbody/pvw_00_ub_0034_dm
 1_pc/22_pkww/armor/9_upperbody/pkww_sd_ub_0001_02
@@ -14328,6 +14689,7 @@
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0007_dm
 1_pc/32_pwge/armor/11_hand/pwge_10_hand_0016
 1_pc/22_pkww/armor/11_hand/pkww_00_hand_0079
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0028_f
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0097_b1_01
 1_pc/15_pdw/armor/9_upperbody/pdw_00_ub_0170
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0052
@@ -14376,6 +14738,7 @@
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0052_01
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0033_dm
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0083_dm
+1_pc/33_pdkl/armor/11_hand/pdkl_00_hand_0033
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0095_a2
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0050
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0044_dm
@@ -14396,12 +14759,15 @@
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0099_p
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0088_dm
 1_pc/16_pcw/armor/14_sho/pcw_00_sho_0194_dm
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0107_e
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0041
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0080_b1
 1_pc/28_pmyf/armor/9_upperbody/pmyf_00_ub_0034_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_50_ub_0001_e
 1_pc/15_pdw/armor/14_sho/pdw_50_sho_0001_mul
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0044_dm
 1_pc/11_pgw/armor/19_cloak/pgw_00_cloak_0002_dm_w
+1_pc/33_pdkl/armor/19_cloak/pdkl_pw_cloak_0256_p
 1_pc/3_pew/armor/10_lowerbody/pew_00_lb_0007_02_dm
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0098_a2
 1_pc/16_pcw/armor/19_cloak/pcw_dw_cloak_0002_dm
@@ -14411,6 +14777,7 @@
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0334_dm
 1_pc/13_pnw/armor/19_cloak/pnw_sd_cloak_0001_01
 1_pc/29_pnyw/armor/19_cloak/pnyw_10_cloak_0094_b1
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0334_01
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0015_02
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0089_a3_01
 1_pc/3_pew/armor/10_lowerbody/pew_00_lb_0010
@@ -14425,6 +14792,8 @@
 1_pc/21_ppw/armor/11_hand/ppw_10_hand_0094_b1
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0022_dm
 1_pc/22_pkww/armor/9_upperbody/pkww_00_ub_0086_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0055
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0053_dm_w
 1_pc/24_pfw/armor/11_hand/pfw_10_hand_0066
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0040_01
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0043_w
@@ -14436,10 +14805,13 @@
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0070_01
 1_pc/2_phw/armor/11_hand/phw_00_hand_0144_03
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0099_w
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0060_dm_w
 1_pc/25_pqw/armor/10_lowerbody/pqw_00_lb_0007
 1_pc/17_psw/armor/14_sho/psw_10_sho_0075_01_mul_w
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0053_01_dm
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0080_b1
 1_pc/5_pbw/armor/14_sho/pbw_00_sho_0267
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0089_a4
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0210
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0021_01_dm
 1_pc/5_pbw/armor/19_cloak/pbw_00_cloak_0210_dm_p
@@ -14459,6 +14831,7 @@
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0067_dm
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0080_b2_01_w
 1_pc/32_pwge/armor/14_sho/pwge_50_sho_0003
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0028_dm
 1_pc/3_pew/armor/11_hand/pew_10_hand_0095
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0099_dm
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0009_dm
@@ -14473,10 +14846,13 @@
 1_pc/25_pqw/armor/19_cloak/pqw_10_cloak_0075_dm
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0045
 1_pc/13_pnw/armor/14_sho/pnw_50_sho_0007
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0016_dm
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0041
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0334_ef2_01
 1_pc/22_pkww/armor/14_sho/pkww_00_sho_0132_dm
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0047_dm
 1_pc/25_pqw/armor/19_cloak/pqw_10_cloak_0056_w
+1_pc/32_pwge/armor/11_hand/pwge_10_hand_0055
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0052_01
 1_pc/7_pvw/event_costume/pvw_00_manufacture_0001_e
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0045_dm
@@ -14511,6 +14887,7 @@
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0039_w
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0047_dm_w
 1_pc/17_psw/armor/11_hand/psw_00_hand_0123_mul_na
+1_pc/33_pdkl/armor/19_cloak/pdkl_pw_cloak_0256
 1_pc/22_pkww/armor/14_sho/pkww_50_sho_0006
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0015
 1_pc/8_pww/armor/9_upperbody/pww_00_ub_0007_03_dm
@@ -14541,6 +14918,7 @@
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0049
 1_pc/22_pkww/event_costume/pkww_00_contribute_0111_e
 1_pc/32_pwge/armor/9_upperbody/pwge_hw_ub_0043_dm
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0013
 1_pc/8_pww/armor/14_sho/pww_10_sho_0016_dm
 1_pc/17_psw/armor/11_hand/psw_10_hand_0089_a3
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0075_w
@@ -14551,9 +14929,11 @@
 1_pc/11_pgw/armor/19_cloak/pgw_00_cloak_0007_04_dm_w
 1_pc/21_ppw/armor/19_cloak/ppw_50_cloak_0001_p
 1_pc/5_pbw/armor/11_hand/pbw_00_hand_0072
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0040_03_dm
 1_pc/16_pcw/armor/9_upperbody/pcw_00_ub_0035_dm
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0080_b1_03_w
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0029_dm
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0097_b1
 1_pc/13_pnw/event_costume/pnw_00_contribute_0006_e
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0080_b1_03
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0028
@@ -14566,10 +14946,12 @@
 1_pc/11_pgw/armor/19_cloak/pgw_00_cloak_0001_w
 1_pc/8_pww/armor/11_hand/pww_10_hand_0009_01
 1_pc/16_pcw/armor/10_lowerbody/pcw_cm_lb_0230_01
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0063_01
 1_pc/3_pew/armor/9_upperbody/pew_00_ub_0009_01_dm
 1_pc/11_pgw/armor/11_hand/pgw_10_hand_0061
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0096
 1_pc/5_pbw/armor/11_hand/pbw_00_hand_0067
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0069_dm_w
 1_pc/27_pkow/armor/9_upperbody/pkow_50_ub_0010_e
 1_pc/2_phw/armor/14_sho/phw_00_sho_0236_dm
 1_pc/7_pvw/armor/14_sho/pvw_50_sho_0006
@@ -14725,6 +15107,7 @@
 1_pc/17_psw/armor/11_hand/psw_00_hand_0123
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0049
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0089_a3
+1_pc/33_pdkl/armor/19_cloak/pdkl_00_cloak_0007_03_w
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0037
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0095_a3
 1_pc/21_ppw/armor/9_upperbody/ppw_00_ub_0215_mul
@@ -14773,6 +15156,7 @@
 1_pc/11_pgw/armor/11_hand/pgw_10_hand_0012
 1_pc/3_pew/armor/14_sho/pew_10_sho_0080_a4_01_w
 1_pc/16_pcw/armor/14_sho/pcw_00_sho_0139_dm
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0089_a3
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0018
 1_pc/11_pgw/armor/10_lowerbody/pgw_50_lb_0001
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0013
@@ -14800,6 +15184,7 @@
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0052
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0095_a3
 1_pc/28_pmyf/armor/11_hand/pmyf_10_hand_0030
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0040_01_dm
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0089_a3
 1_pc/8_pww/armor/14_sho/pww_00_sho_0204_dm
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0097_b1_dm
@@ -14965,6 +15350,7 @@
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0044
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0043_dm
 1_pc/24_pfw/armor/19_cloak/pfw_dw_cloak_0128_w
+1_pc/33_pdkl/armor/11_hand/pdkl_00_hand_0034_01_dm
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0011
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0021_dm
 1_pc/2_phw/armor/14_sho/phw_10_sho_0026
@@ -14974,6 +15360,7 @@
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0023
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0037
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0056
+1_pc/33_pdkl/armor/9_upperbody/pdkl_00_ub_0037_dm
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0001
 1_pc/17_psw/armor/14_sho/psw_10_sho_0021_01_mul
 1_pc/22_pkww/armor/14_sho/pkww_00_sho_0072
@@ -14991,6 +15378,7 @@
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0007_dm
 1_pc/11_pgw/armor/19_cloak/pgw_00_cloak_0002_w
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0089_a3
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0063_dm_w
 1_pc/8_pww/armor/14_sho/pww_10_sho_0060_w
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0070_01_mul_na
 1_pc/29_pnyw/armor/14_sho/pnyw_10_sho_0098_b1_01_w
@@ -15038,6 +15426,7 @@
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0093_01
 1_pc/8_pww/armor/11_hand/pww_10_hand_0088
 1_pc/11_pgw/armor/19_cloak/pgw_50_cloak_0002_p
+1_pc/33_pdkl/armor/14_sho/pdkl_00_sho_0001
 1_pc/2_phw/armor/9_upperbody/phw_00_ub_0052_dm
 1_pc/21_ppw/armor/11_hand/ppw_10_hand_0031_mul
 1_pc/3_pew/armor/11_hand/pew_10_hand_0021_01_dm
@@ -15168,6 +15557,7 @@
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0080_a2_02
 1_pc/8_pww/armor/9_upperbody/pww_50_ub_0009_e
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0074_w
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_00_lb_0001
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0027_03_dm
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0080_b1_01_w
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0058_01
@@ -15195,6 +15585,7 @@
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0053_01
 1_pc/17_psw/armor/14_sho/psw_50_sho_0001_mul
 1_pc/3_pew/armor/14_sho/pew_10_sho_0041
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0006_e
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0015_01_mul
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0038_dm
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0016
@@ -15330,6 +15721,7 @@
 1_pc/13_pnw/armor/9_upperbody/pnw_00_ub_0199_dm
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0029_mul
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0334_ef2
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_pw_lb_0256_dm
 1_pc/27_pkow/armor/10_lowerbody/pkow_hw_lb_0085
 1_pc/29_pnyw/armor/11_hand/pnyw_10_hand_0069_01
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0007_dm
@@ -15362,6 +15754,7 @@
 1_pc/17_psw/armor/11_hand/psw_00_hand_0003
 1_pc/24_pfw/armor/19_cloak/pfw_10_cloak_0015_01
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0052_01_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0097_b1_dm
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0098_a1_01_w
 1_pc/29_pnyw/armor/19_cloak/pnyw_10_cloak_0071
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0051_dm
@@ -15402,6 +15795,7 @@
 1_pc/8_pww/armor/14_sho/pww_10_sho_0205_dm
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0074_dm
 1_pc/21_ppw/event_costume/ppw_00_contribute_0014_e
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0067_dm
 1_pc/11_pgw/armor/11_hand/pgw_10_hand_0089_a1
 1_pc/8_pww/armor/14_sho/pww_10_sho_0089_a3_01
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0013_w
@@ -15411,6 +15805,7 @@
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0059
 1_pc/24_pfw/armor/19_cloak/pfw_nw_cloak_0177
 1_pc/2_phw/armor/14_sho/phw_00_sho_0076
+1_pc/33_pdkl/event_costume_hel/pdkl_00_contribute_hel_0102
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0080_b1_01_mul
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0080_a4_01
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0058
@@ -15510,6 +15905,7 @@
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0080_a1_03
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0205
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0075
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0063_01
 1_pc/32_pwge/armor/19_cloak/pwge_10_cloak_0083_dm
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0028_w
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0039
@@ -15555,6 +15951,7 @@
 1_pc/22_pkww/armor/11_hand/pkww_10_hand_0069_01
 1_pc/3_pew/armor/14_sho/pew_10_sho_0080_b2_01_w
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0055_dm
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0066_w
 1_pc/27_pkow/armor/9_upperbody/pkow_00_ub_0007_04_dm
 1_pc/25_pqw/armor/11_hand/pqw_10_hand_0043
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0040_02
@@ -15578,6 +15975,7 @@
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0057_mul_na
 1_pc/22_pkww/armor/9_upperbody/pkww_ew_ub_0031_dm
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0015
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0040_dm_w
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0008_mul_na
 1_pc/2_phw/armor/14_sho/phw_10_sho_0024_dm
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0015_03_mul
@@ -15683,6 +16081,7 @@
 1_pc/7_pvw/armor/14_sho/pvw_00_sho_0274
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0334_ef2
 1_pc/13_pnw/armor/14_sho/pnw_00_sho_0274_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0015_01
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0080_b1_01_mul_na
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0021_dm
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0069_dm_w
@@ -15697,6 +16096,7 @@
 1_pc/24_pfw/armor/19_cloak/pfw_10_cloak_0028_dm_p
 1_pc/21_ppw/armor/9_upperbody/ppw_00_ub_0275_mul
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0029_dm
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0062
 1_pc/32_pwge/armor/10_lowerbody/pwge_50_lb_0010
 1_pc/24_pfw/armor/19_cloak/pfw_50_cloak_0009_p
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0043
@@ -15788,6 +16188,7 @@
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0080_a4
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0074
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0011_dm
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0089_a4
 1_pc/24_pfw/armor/9_upperbody/pfw_50_ub_0009_e
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0080_b2_03
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0067_dm
@@ -15803,11 +16204,13 @@
 1_pc/2_phw/armor/11_hand/phw_10_hand_0033_dm
 1_pc/29_pnyw/armor/14_sho/pnyw_10_sho_0047_dm
 1_pc/22_pkww/event_costume/pkww_00_contribute_0104_e
+1_pc/33_pdkl/armor/19_cloak/pdkl_vw_cloak_0134_dm
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0045_02
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0044_01_dm
 1_pc/3_pew/event_costume/pew_00_contribute_0107_e
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0080_a3
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0093
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_00_lb_0037_dm
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0089_a4_01
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0022
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0027_dm
@@ -15819,9 +16222,11 @@
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0060_dm_w
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0006
 1_pc/28_pmyf/armor/14_sho/pmyf_00_sho_0267_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_00_cloak_0002_p
 1_pc/3_pew/armor/11_hand/pew_00_hand_0153
 1_pc/22_pkww/event_costume/pkww_00_contribute_0002_e
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0047_v
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0067
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0096_w
 1_pc/15_pdw/armor/19_cloak/pdw_00_cloak_0274_01
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0055_dm
@@ -15923,6 +16328,7 @@
 1_pc/2_phw/armor/19_cloak/phw_00_cloak_0274_02_dm
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0080_b1
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0080_b2_w
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0089_a4_01
 1_pc/3_pew/armor/19_cloak/pew_00_cloak_0052_dm_i
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0075_dm
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0071_dm
@@ -15983,6 +16389,7 @@
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0055_dm
 1_pc/3_pew/armor/10_lowerbody/pew_50_lb_0008
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0205
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0016_dm
 1_pc/3_pew/armor/9_upperbody/pew_00_ub_0274
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0070
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0080_a4_01_w
@@ -16064,6 +16471,7 @@
 1_pc/11_pgw/armor/14_sho/pgw_00_sho_0227
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0039_mul
 1_pc/22_pkww/armor/14_sho/pkww_00_sho_0088
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0015_03
 1_pc/5_pbw/armor/9_upperbody/pbw_00_ub_0018
 1_pc/2_phw/armor/14_sho/phw_10_sho_0099_w
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0097_a1
@@ -16195,8 +16603,10 @@
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0025_dm
 1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0016_dm
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0058_dm
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0016
 1_pc/25_pqw/armor/11_hand/pqw_10_hand_0028
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0043
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0097_a1
 1_pc/25_pqw/armor/19_cloak/pqw_10_cloak_0094_a1
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0097_a1_dm
 1_pc/11_pgw/armor/19_cloak/pgw_00_cloak_0227_w
@@ -16248,6 +16658,7 @@
 1_pc/8_pww/armor/10_lowerbody/pww_00_lb_0000
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0050
 1_pc/22_pkww/armor/9_upperbody/pkww_00_ub_0035
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0210
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0027_01
 1_pc/22_pkww/armor/11_hand/pkww_ew_hand_0030
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0055_dm
@@ -16342,6 +16753,7 @@
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0027
 1_pc/28_pmyf/armor/19_cloak/pmyf_00_cloak_0002_dm
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0029_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0013_w
 1_pc/22_pkww/armor/11_hand/pkww_10_hand_0047
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0094_a1
 1_pc/32_pwge/armor/19_cloak/pwge_00_cloak_0033
@@ -16425,6 +16837,7 @@
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0041
 1_pc/17_psw/armor/9_upperbody/psw_00_ub_0035_dm
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0057
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0067_dm
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0080_b2_01
 1_pc/22_pkww/armor/9_upperbody/pkww_00_ub_0052_dm
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0041
@@ -16569,6 +16982,7 @@
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0043_dm_w
 1_pc/27_pkow/armor/11_hand/pkow_10_hand_0069
 1_pc/5_pbw/armor/14_sho/pbw_00_sho_0052
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0014
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0057_01
 1_pc/8_pww/armor/11_hand/pww_10_hand_0334_ef2
 1_pc/8_pww/armor/11_hand/pww_10_hand_0015_03
@@ -16723,6 +17137,7 @@
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0099_w
 1_pc/24_pfw/armor/11_hand/pfw_10_hand_0020
 1_pc/2_phw/armor/14_sho/phw_10_sho_0089_a4
+1_pc/32_pwge/armor/14_sho/pwge_10_sho_0055_01_w
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0025_dm
 1_pc/5_pbw/armor/14_sho/pbw_50_sho_0001
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0095_a2
@@ -16736,6 +17151,7 @@
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0094_a1
 1_pc/16_pcw/armor/10_lowerbody/pcw_00_lb_0001_02
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0063_01
+1_pc/33_pdkl/armor/14_sho/pdkl_pw_sho_0256
 1_pc/29_pnyw/armor/11_hand/pnyw_10_hand_0015_03
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0052_04_w
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0061_w
@@ -16804,12 +17220,14 @@
 1_pc/21_ppw/event_costume/ppw_00_contribute_0010_e
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0020_01_dm
 1_pc/5_pbw/armor/19_cloak/pbw_lw_cloak_0006
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0067_01
 1_pc/21_ppw/event_costume/ppw_00_manufacture_0006_mul_na_e
 1_pc/15_pdw/armor/10_lowerbody/pdw_00_lb_0141_mul
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0080_a4_01_w
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0070
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0080_b1
 1_pc/32_pwge/event_costume/pwge_00_contribute_0113_e
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0070_01_dm
 1_pc/3_pew/armor/11_hand/pew_10_hand_0074
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0025
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0034
@@ -16893,6 +17311,7 @@
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0066
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0083
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0088
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0050
 1_pc/17_psw/armor/14_sho/psw_10_sho_0014
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0089_a4_01
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0083_01_w
@@ -16900,14 +17319,17 @@
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0055_dm
 1_pc/13_pnw/event_costume/pnw_00_contribute_0007_e
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0097
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0089_a3_w
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0052_02
 1_pc/27_pkow/armor/11_hand/pkow_10_hand_0089_a3
 1_pc/29_pnyw/event_costume/pnyw_00_manufacture_0005_e
 1_pc/8_pww/armor/14_sho/pww_10_sho_0089_a1_01
 1_pc/25_pqw/armor/14_sho/pqw_50_sho_0006
 1_pc/8_pww/armor/11_hand/pww_10_hand_0059
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0060_w
 1_pc/2_phw/armor/11_hand/phw_10_hand_0066
 1_pc/11_pgw/armor/9_upperbody/pgw_00_ub_0170
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0334_ef1_01
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0095_w
 1_pc/15_pdw/armor/19_cloak/pdw_00_cloak_0274_dm
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0051
@@ -16952,6 +17374,7 @@
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0014_mul
 1_pc/28_pmyf/armor/11_hand/pmyf_10_hand_0069
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0052_dm
+1_pc/33_pdkl/event_costume_hel/pdkl_00_contribute_hel_0103
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0035
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0045_mul
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0095_a2
@@ -16971,6 +17394,7 @@
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0070_01_mul_na
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0074
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0039
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0210
 1_pc/15_pdw/armor/9_upperbody/pdw_50_ub_0007_dm
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0097_b1
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0080_b1_01_w
@@ -16978,6 +17402,7 @@
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0022
 1_pc/22_pkww/armor/9_upperbody/pkww_50_ub_0009_e
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0043_dm
+1_pc/33_pdkl/armor/14_sho/pdkl_50_sho_0009
 1_pc/16_pcw/armor/19_cloak/pcw_10_cloak_0094_b1
 1_pc/24_pfw/armor/11_hand/pfw_ew_hand_0033
 1_pc/12_pkw/event_costume_hel/pkw_00_manufacture_0001_hel_d
@@ -16986,6 +17411,7 @@
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0080_a2_02_w
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0061
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0067_w
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0055_dm
 1_pc/24_pfw/armor/11_hand/pfw_10_hand_0039
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0058_dm
 1_pc/13_pnw/armor/9_upperbody/pnw_00_ub_0040
@@ -16995,6 +17421,7 @@
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0040_02
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0029
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0080_a4
+1_pc/33_pdkl/armor/14_sho/pdkl_50_sho_0007
 1_pc/13_pnw/armor/10_lowerbody/pnw_00_lb_0007_03
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0038_mul
 1_pc/15_pdw/armor/14_sho/pdw_00_sho_0261_01
@@ -17012,6 +17439,7 @@
 1_pc/21_ppw/armor/11_hand/ppw_00_hand_0256_01_mul
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0035_dm
 1_pc/16_pcw/armor/19_cloak/pcw_00_cloak_0179
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0015_02
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0030
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0063_w
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0080_a1_02
@@ -17062,6 +17490,7 @@
 1_pc/22_pkww/armor/9_upperbody/pkww_vw_ub_0003
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0083
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0067
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0012
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0097_a1_01_dm
 1_pc/3_pew/armor/10_lowerbody/pew_00_lb_0128
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0041
@@ -17324,6 +17753,7 @@
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0052_01
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0210_01
 1_pc/8_pww/event_costume/pww_00_contribute_0009_e
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_00_lb_0001_01
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0054
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0063
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0070_01
@@ -17351,6 +17781,7 @@
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0080_b2_02
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0027_01
 1_pc/22_pkww/armor/9_upperbody/pkww_00_ub_0270
+1_pc/33_pdkl/armor/9_upperbody/pdkl_00_ub_0007_03
 1_pc/3_pew/armor/11_hand/pew_10_hand_0020_01_dm
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0050_mul
 1_pc/5_pbw/armor/9_upperbody/pbw_hw_ub_0031
@@ -17369,6 +17800,7 @@
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0015_02
 1_pc/7_pvw/armor/14_sho/pvw_10_sho_0027_01
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0094_a1
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0008
 1_pc/28_pmyf/armor/11_hand/pmyf_00_hand_0267
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0210_01
 1_pc/28_pmyf/armor/11_hand/pmyf_10_hand_0071
@@ -17376,6 +17808,7 @@
 1_pc/3_pew/event_costume/pew_00_manufacture_0006_k
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0089_a3_mul
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0040_mul
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0010_e
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0034_dm
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0089_a4_01_mul
 1_pc/17_psw/armor/14_sho/psw_10_sho_0042
@@ -17460,8 +17893,10 @@
 1_pc/29_pnyw/armor/19_cloak/pnyw_10_cloak_0040_w
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0009_dm
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0069
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0093
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0024_dm
 1_pc/17_psw/armor/11_hand/psw_10_hand_0053
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0097_a1_dm
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0080_b2_03_w
 1_pc/21_ppw/event_costume_hel/ppw_00_contribute_hel_0014_d
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0069_01
@@ -17481,6 +17916,7 @@
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0080_b1
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0083_mul
 1_pc/8_pww/armor/11_hand/pww_00_hand_0052_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_50_cloak_0007_p
 1_pc/16_pcw/armor/10_lowerbody/pcw_00_lb_0251
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0080_b2_03
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0015
@@ -17535,6 +17971,7 @@
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0023
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0080_a3_03
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0051
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0089_a2
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0205_dm
 1_pc/2_phw/event_costume/phw_00_evt_0001_e
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0050_01_mul
@@ -17545,6 +17982,7 @@
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0015
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0016_dm
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0027_03_dm
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0001
 1_pc/13_pnw/event_costume/pnw_00_contribute_0014_e
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0080
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0061_dm
@@ -17572,6 +18010,7 @@
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0089_a4_01
 1_pc/17_psw/armor/19_cloak/psw_00_cloak_0121_w
 1_pc/21_ppw/armor/11_hand/ppw_04_hand_0002
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0062_dm
 1_pc/15_pdw/armor/10_lowerbody/pdw_00_lb_0007_04
 1_pc/29_pnyw/armor/9_upperbody/pnyw_50_ub_0007_e
 1_pc/16_pcw/armor/14_sho/pcw_00_sho_0179
@@ -17601,6 +18040,7 @@
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0080_a2
 1_pc/11_pgw/armor/10_lowerbody/pgw_00_lb_0192_dm
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0098_a1
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0051
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0022_dm
 1_pc/2_phw/armor/14_sho/phw_10_sho_0016
 1_pc/12_pkw/armor/9_upperbody/pkw_ew_ub_0033
@@ -17706,6 +18146,7 @@
 1_pc/2_phw/armor/19_cloak/phw_ew_cloak_0033_01
 1_pc/13_pnw/armor/9_upperbody/pnw_00_ub_0062_dm
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0057_01
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0039
 1_pc/17_psw/armor/14_sho/psw_10_sho_0096_01_mul_w
 1_pc/29_pnyw/event_costume/pnyw_00_manufacture_0001_e
 1_pc/24_pfw/armor/10_lowerbody/pfw_99_lb_0000
@@ -17732,6 +18173,7 @@
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0029
 1_pc/21_ppw/event_costume/ppw_00_contribute_0111_dm_e
 1_pc/21_ppw/armor/9_upperbody/ppw_00_ub_0247_03
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_00_lb_0001_01_dm
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0094_a1
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0029_dm
 1_pc/3_pew/armor/14_sho/pew_10_sho_0066_dm_w
@@ -17760,6 +18202,7 @@
 1_pc/28_pmyf/armor/11_hand/pmyf_00_hand_0034_01
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0048
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0045
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0060
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0080_a3_mul_na
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0210
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0035
@@ -17859,6 +18302,7 @@
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0054_dm
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0052
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0027_03_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0089_a4_w
 1_pc/21_ppw/armor/11_hand/ppw_10_hand_0088
 1_pc/24_pfw/armor/11_hand/pfw_10_hand_0001
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0093
@@ -17887,6 +18331,7 @@
 1_pc/11_pgw/armor/10_lowerbody/pgw_00_lb_0033_dm
 1_pc/25_pqw/armor/19_cloak/pqw_00_cloak_0275_w
 1_pc/32_pwge/armor/10_lowerbody/pwge_50_lb_0008
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0014
 1_pc/2_phw/armor/9_upperbody/phw_00_ub_0034_01
 1_pc/17_psw/event_costume/psw_00_contribute_0010_mul_e
 1_pc/22_pkww/armor/9_upperbody/pkww_50_ub_0008_k
@@ -17924,7 +18369,9 @@
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0045_02_dm
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0027_02
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0097_b1_mul
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0039_dm
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0050_01
+1_pc/33_pdkl/armor/9_upperbody/pdkl_50_ub_0007_e
 1_pc/17_psw/armor/19_cloak/psw_00_cloak_0274
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0069
 1_pc/22_pkww/armor/11_hand/pkww_10_hand_0020
@@ -17944,6 +18391,7 @@
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0334
 1_pc/29_pnyw/armor/11_hand/pnyw_10_hand_0088
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0020
+1_pc/33_pdkl/armor/19_cloak/pdkl_50_cloak_0001_p
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0334_ef2_dm
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0012
 1_pc/3_pew/armor/10_lowerbody/pew_kw_lb_0001_dm
@@ -17966,15 +18414,18 @@
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0210_01
 1_pc/24_pfw/armor/10_lowerbody/pfw_10_lb_0097_b1_01
 1_pc/13_pnw/armor/11_hand/pnw_kw_hand_0235_01
+1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0050_dm
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0028_dm
 1_pc/22_pkww/armor/11_hand/pkww_10_hand_0034
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0044_dm_w
+1_pc/33_pdkl/armor/11_hand/pdkl_pw_hand_0256_01
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0210_01_dm
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0080_b1
 1_pc/29_pnyw/armor/19_cloak/pnyw_10_cloak_0047_dm_w
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0014
 1_pc/7_pvw/armor/19_cloak/pvw_10_cloak_0098_b1
 1_pc/27_pkow/armor/11_hand/pkow_10_hand_0066
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0015_02
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0075_mul
 1_pc/5_pbw/armor/19_cloak/pbw_00_cloak_0267_dm
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0055
@@ -18011,6 +18462,7 @@
 1_pc/8_pww/armor/11_hand/pww_ew_hand_0030
 1_pc/17_psw/event_costume/psw_00_manufacture_0005_e_dm
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0030_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0016_dm
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0060
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0059
 1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0088_dm
@@ -18041,6 +18493,7 @@
 1_pc/15_pdw/armor/9_upperbody/pdw_00_ub_0030_dm
 1_pc/3_pew/armor/11_hand/pew_10_hand_0015
 1_pc/8_pww/armor/14_sho/pww_10_sho_0015
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0016_w
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0080_b2
 1_pc/22_pkww/armor/11_hand/pkww_00_hand_0007_04
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0052
@@ -18121,6 +18574,7 @@
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0075_dm
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0021_mul
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0015_03
+1_pc/33_pdkl/armor/19_cloak/pdkl_00_cloak_0033
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0205_dm
 1_pc/16_pcw/armor/11_hand/pcw_10_hand_0205_01
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0027_02_dm
@@ -18265,6 +18719,7 @@
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0014_01_mul
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0058_dm
 1_pc/17_psw/armor/14_sho/psw_10_sho_0034_w
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0001
 1_pc/2_phw/armor/11_hand/phw_00_hand_0049
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0210_01
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0016_dm
@@ -18285,6 +18740,7 @@
 1_pc/21_ppw/armor/19_cloak/ppw_00_cloak_0007_03
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0067_dm
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0027
+1_pc/33_pdkl/armor/14_sho/pdkl_50_sho_0003
 1_pc/29_pnyw/armor/11_hand/pnyw_10_hand_0059
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0066_dm_w
 1_pc/22_pkww/armor/11_hand/pkww_10_hand_0038_dm
@@ -18461,6 +18917,7 @@
 1_pc/29_pnyw/armor/11_hand/pnyw_10_hand_0049
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0080_b1_02_w
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0080_b2_03
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0103_e
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0080_a3_02_w
 1_pc/16_pcw/armor/19_cloak/pcw_10_cloak_0053
 1_pc/8_pww/event_costume/pww_00_contribute_0111_e
@@ -18543,6 +19000,7 @@
 1_pc/21_ppw/armor/11_hand/ppw_00_hand_0007_04_mul
 1_pc/11_pgw/armor/19_cloak/pgw_10_cloak_0075_dm
 1_pc/12_pkw/armor/14_sho/pkw_ew_sho_0031
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0097
 1_pc/15_pdw/armor/11_hand/pdw_00_hand_0128
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0097_a1_dm
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0022_dm
@@ -18626,6 +19084,7 @@
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0099
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0053_dm
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0052_02_mul
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0070
 1_pc/3_pew/armor/9_upperbody/pew_00_ub_0007_04
 1_pc/22_pkww/armor/11_hand/pkww_10_hand_0021_01
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0014_01
@@ -18707,6 +19166,7 @@
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0080_a2
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0060_dm
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0080_a1_w
+1_pc/33_pdkl/event_costume_hel/pdkl_00_contribute_hel_0111_d
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0083_01_w
 1_pc/28_pmyf/armor/19_cloak/pmyf_50_cloak_0007_p
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0042
@@ -18717,6 +19177,7 @@
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0045_02_dm
 1_pc/21_ppw/event_costume/ppw_00_contribute_0108_mul_na_e
 1_pc/24_pfw/armor/11_hand/pfw_04_hand_0002
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0069
 1_pc/29_pnyw/armor/11_hand/pnyw_00_hand_0268_01
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0080_b1_01
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0041
@@ -18743,6 +19204,7 @@
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0047
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0095_a1_mul_na
 1_pc/32_pwge/armor/19_cloak/pwge_10_cloak_0058_01
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0070_dm
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0089_a2
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0063_dm
 1_pc/3_pew/event_costume_hel/pew_00_manufacture_hel_0001_d
@@ -18809,6 +19271,7 @@
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0040_03_dm
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0021_dm
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0061_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_00_ub_0001_dm
 1_pc/5_pbw/armor/19_cloak/pbw_10_cloak_0063_dm_w
 1_pc/11_pgw/armor/11_hand/pgw_00_hand_0168
 1_pc/5_pbw/armor/19_cloak/pbw_lw_cloak_0220_w
@@ -18853,7 +19316,9 @@
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0011
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0048
 1_pc/24_pfw/armor/11_hand/pfw_10_hand_0089_a4
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0089_a2
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0095_a1
+1_pc/33_pdkl/armor/9_upperbody/pdkl_10_ub_0039_dm
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0096_w
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0055_dm
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0095_a3_01
@@ -18866,6 +19331,7 @@
 1_pc/25_pqw/event_costume/pqw_00_manufacture_0006_e
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0080_b1_w
 1_pc/16_pcw/armor/19_cloak/pcw_50_cloak_0007_p
+1_pc/33_pdkl/armor/9_upperbody/pdkl_00_ub_0037
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0034_mul
 1_pc/25_pqw/armor/19_cloak/pqw_10_cloak_0043_w
 1_pc/21_ppw/armor/9_upperbody/ppw_00_ub_0007_04_dm
@@ -18920,6 +19386,7 @@
 1_pc/13_pnw/armor/11_hand/pnw_sd_hand_0001
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0080_a3_01_w
 1_pc/22_pkww/armor/11_hand/pkww_00_hand_0088_dm
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0099_dm_w
 1_pc/8_pww/armor/11_hand/pww_10_hand_0053
 1_pc/22_pkww/armor/10_lowerbody/pkww_ew_lb_0032
 1_pc/8_pww/armor/9_upperbody/pww_00_ub_0007_02
@@ -18944,6 +19411,7 @@
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0050
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0011_dm
 1_pc/13_pnw/armor/11_hand/pnw_10_hand_0334_01
+1_pc/33_pdkl/armor/9_upperbody/pdkl_50_ub_0009_e
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0041_dm
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_00_lb_0267_03
 1_pc/17_psw/armor/14_sho/psw_10_sho_0029
@@ -18957,6 +19425,7 @@
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0080_a1_02
 1_pc/27_pkow/armor/9_upperbody/pkow_00_ub_0274_dm
 1_pc/3_pew/armor/14_sho/pew_10_sho_0049
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0111_e
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0033_dm
 1_pc/27_pkow/armor/11_hand/pkow_10_hand_0011
 1_pc/8_pww/armor/14_sho/pww_10_sho_0059_w
@@ -18974,6 +19443,7 @@
 1_pc/21_ppw/armor/10_lowerbody/ppw_50_lb_0007_mul
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0034
 1_pc/2_phw/armor/10_lowerbody/phw_sd_lb_0002_01
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0012
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0034
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0049
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0014_01
@@ -19023,6 +19493,7 @@
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0050
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0057
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0048_01_w
+1_pc/33_pdkl/event_costume_hel/pdkl_00_contribute_hel_0106
 1_pc/8_pww/armor/14_sho/pww_10_sho_0062_01_w
 1_pc/16_pcw/armor/11_hand/pcw_00_hand_0040
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0020_01
@@ -19095,6 +19566,7 @@
 1_pc/7_pvw/armor/10_lowerbody/pvw_00_lb_0083
 1_pc/2_phw/armor/14_sho/phw_10_sho_0027_02
 1_pc/29_pnyw/armor/10_lowerbody/pnyw_10_lb_0063_01
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0055_dm_w
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0088_dm
 1_pc/15_pdw/event_costume/pdw_00_contribute_0011_e
 1_pc/11_pgw/event_costume/pgw_00_contribute_0009_e
@@ -19195,11 +19667,13 @@
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0038_mul
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0052_01_w
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0070
+1_pc/33_pdkl/armor/9_upperbody/pdkl_00_ub_0007_03_dm
 1_pc/29_pnyw/armor/14_sho/pnyw_10_sho_0045_dm_w
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0055_dm_w
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0013
 1_pc/17_psw/armor/11_hand/psw_00_hand_0002
 1_pc/13_pnw/armor/10_lowerbody/pnw_10_lb_0080_a1
+1_pc/33_pdkl/armor/9_upperbody/pdkl_00_ub_0033_dm
 1_pc/8_pww/armor/9_upperbody/pww_00_ub_0034_dm
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0015_02
 1_pc/2_phw/armor/19_cloak/phw_00_cloak_0076
@@ -19239,6 +19713,7 @@
 1_pc/32_pwge/armor/11_hand/pwge_10_hand_0067
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0210_dm
 1_pc/17_psw/armor/10_lowerbody/psw_00_lb_0266
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0108_e
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0057_dm
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_10_lb_0043_dm
 1_pc/12_pkw/armor/10_lowerbody/pkw_10_lb_0009
@@ -19257,6 +19732,7 @@
 1_pc/11_pgw/armor/9_upperbody/pgw_00_ub_0002_dm
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0020_01_dm
 1_pc/24_pfw/armor/14_sho/pfw_10_sho_0088_w
+1_pc/33_pdkl/armor/14_sho/pdkl_vw_sho_0058
 1_pc/5_pbw/armor/19_cloak/pbw_50_cloak_0002_p
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0034_dm
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0074
@@ -19290,6 +19766,7 @@
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0037_dm
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0089_a1
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0075_01_dm
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0089_a2_01
 1_pc/2_phw/armor/14_sho/phw_10_sho_0080_a4_v
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0052_mul
 1_pc/25_pqw/armor/11_hand/pqw_00_hand_0034
@@ -19315,6 +19792,7 @@
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0020_01_dm
 1_pc/8_pww/armor/10_lowerbody/pww_00_lb_0035
 1_pc/8_pww/armor/19_cloak/pww_ew_cloak_0045_i
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0066
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0080_a1_01_mul_na
 1_pc/5_pbw/armor/10_lowerbody/pbw_10_lb_0080_a4
 1_pc/15_pdw/armor/10_lowerbody/pdw_10_lb_0094_b1_01
@@ -19329,6 +19807,7 @@
 1_pc/32_pwge/armor/9_upperbody/pwge_00_ub_0033
 1_pc/8_pww/armor/11_hand/pww_00_hand_0034_dm
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0067_01_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0004_w
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0027_01
 1_pc/24_pfw/armor/19_cloak/pfw_10_cloak_0067_dm_w
 1_pc/3_pew/armor/10_lowerbody/pew_10_lb_0097_b1_dm
@@ -19366,6 +19845,7 @@
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0025
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0044_01_dm
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0054_dm
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_00_lb_0002
 1_pc/25_pqw/armor/14_sho/pqw_99_sho_0000
 1_pc/28_pmyf/armor/9_upperbody/pmyf_00_ub_0007_04_dm
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0015_02_mul
@@ -19381,6 +19861,7 @@
 1_pc/21_ppw/armor/11_hand/ppw_10_hand_0041
 1_pc/27_pkow/armor/10_lowerbody/pkow_10_lb_0089_a1
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0094_a1
+1_pc/33_pdkl/armor/14_sho/pdkl_00_sho_0034
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0040_02_mul
 1_pc/32_pwge/armor/11_hand/pwge_10_hand_0059
 1_pc/7_pvw/armor/9_upperbody/pvw_00_ub_0076
@@ -19426,6 +19907,7 @@
 1_pc/22_pkww/armor/10_lowerbody/pkww_10_lb_0098_b1_01
 1_pc/13_pnw/armor/9_upperbody/pnw_10_ub_0050
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0009
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0014_e
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0071_mul_na
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0080_b1_03
 1_pc/3_pew/event_costume/pew_00_contribute_0102_e
@@ -19464,6 +19946,7 @@
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0025
 1_pc/22_pkww/armor/11_hand/pkww_10_hand_0052
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0039_dm
+1_pc/33_pdkl/event_costume/pdkl_00_contribute_0005_e
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0022
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0015
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_00_lb_0268_dm
@@ -19484,6 +19967,7 @@
 1_pc/21_ppw/event_costume/ppw_00_contribute_0103_e
 1_pc/3_pew/armor/14_sho/pew_10_sho_0048_dm
 1_pc/32_pwge/event_costume/pwge_00_contribute_0108_e
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0067_01_dm
 1_pc/32_pwge/armor/14_sho/pwge_10_sho_0007
 1_pc/5_pbw/armor/11_hand/pbw_10_hand_0012
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0057_dm
@@ -19537,12 +20021,15 @@
 1_pc/28_pmyf/armor/11_hand/pmyf_10_hand_0094_b1
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0071
 1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0057
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0050
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0042
 1_pc/7_pvw/armor/9_upperbody/pvw_10_ub_0014
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0089_a4
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_50_lb_0009
 1_pc/17_psw/armor/19_cloak/psw_50_cloak_0007_p
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0014_01
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0098_a2
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_50_lb_0006
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0040_01_dm
 1_pc/21_ppw/armor/9_upperbody/ppw_10_ub_0089_a3_mul_w
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0089_a2
@@ -19623,6 +20110,7 @@
 1_pc/21_ppw/event_costume/ppw_00_contribute_0111_mul_na_e
 1_pc/25_pqw/armor/9_upperbody/pqw_10_ub_0052_01
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0017
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0055_01_w
 1_pc/5_pbw/armor/10_lowerbody/pbw_00_lb_0035
 1_pc/17_psw/armor/14_sho/psw_50_sho_0002
 1_pc/15_pdw/armor/9_upperbody/pdw_00_ub_0229_mul_na
@@ -19722,6 +20210,7 @@
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0052
 1_pc/32_pwge/armor/9_upperbody/pwge_10_ub_0334_dm
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0050_mul_na
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0014
 1_pc/7_pvw/armor/11_hand/pvw_00_hand_0135
 1_pc/24_pfw/armor/14_sho/pfw_00_sho_0001
 1_pc/21_ppw/armor/11_hand/ppw_10_hand_0014_01_mul
@@ -19805,11 +20294,13 @@
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0080_a2_w
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0062_01_w
 1_pc/22_pkww/armor/14_sho/pkww_10_sho_0099_dm_w
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0063
 1_pc/12_pkw/armor/9_upperbody/pkw_ew_ub_0030
 1_pc/16_pcw/armor/19_cloak/pcw_10_cloak_0083_dm
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0080_a3_03
 1_pc/3_pew/armor/14_sho/pew_10_sho_0099_w
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0027_02
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0008
 1_pc/5_pbw/armor/9_upperbody/pbw_00_ub_0197
 1_pc/5_pbw/armor/9_upperbody/pbw_10_ub_0080_b2
 1_pc/7_pvw/armor/11_hand/pvw_ew_hand_0030
@@ -19818,6 +20309,7 @@
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0094_a1_01_w
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0039
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0096_dm_w
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_50_lb_0002
 1_pc/21_ppw/event_costume/ppw_00_contribute_0013_mul_na_e
 1_pc/3_pew/armor/11_hand/pew_00_hand_0090_dm
 1_pc/32_pwge/armor/11_hand/pwge_04_hand_0002
@@ -19836,6 +20328,7 @@
 1_pc/2_phw/armor/9_upperbody/phw_00_ub_0276
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0098_b1
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0052_01_mul
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0003
 1_pc/15_pdw/armor/10_lowerbody/pdw_50_lb_0002
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0099
 1_pc/28_pmyf/armor/14_sho/pmyf_10_sho_0045_dm_w
@@ -19878,6 +20371,7 @@
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0047_dm
 1_pc/21_ppw/armor/19_cloak/ppw_10_cloak_0093
 1_pc/29_pnyw/armor/19_cloak/pnyw_10_cloak_0083
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0070
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0016_mul
 1_pc/22_pkww/armor/9_upperbody/pkww_10_ub_0040_03_dm
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0021_01_dm
@@ -19950,6 +20444,7 @@
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0097_a1_01
 1_pc/3_pew/armor/19_cloak/pew_10_cloak_0038_w
 1_pc/27_pkow/armor/19_cloak/pkow_10_cloak_0089_a1_01
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0040_01
 1_pc/21_ppw/armor/10_lowerbody/ppw_10_lb_0024_mul
 1_pc/3_pew/armor/9_upperbody/pew_10_ub_0070_01
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0210
@@ -20044,6 +20539,7 @@
 1_pc/15_pdw/armor/9_upperbody/pdw_10_ub_0080_b1
 1_pc/21_ppw/armor/9_upperbody/ppw_ew_ub_0231_dm
 1_pc/24_pfw/armor/14_sho/pfw_kw_sho_0099_dm
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0014_01
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0058_dm
 1_pc/13_pnw/armor/19_cloak/pnw_10_cloak_0058
 1_pc/22_pkww/armor/19_cloak/pkww_10_cloak_0088_dm
@@ -20053,6 +20549,7 @@
 1_pc/21_ppw/armor/14_sho/ppw_10_sho_0015_03
 1_pc/3_pew/event_costume/pew_00_contribute_0104_e
 1_pc/16_pcw/armor/10_lowerbody/pcw_10_lb_0015
+1_pc/33_pdkl/armor/14_sho/pdkl_10_sho_0089_a1
 1_pc/25_pqw/armor/14_sho/pqw_10_sho_0016_w
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0080_a4
 1_pc/25_pqw/armor/19_cloak/pqw_10_cloak_0059_dm
@@ -20067,6 +20564,7 @@
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0071_mul
 1_pc/29_pnyw/armor/11_hand/pnyw_10_hand_0015_01
 1_pc/24_pfw/armor/11_hand/pfw_10_hand_0042
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0089_a2
 1_pc/8_pww/armor/14_sho/pww_10_sho_0056
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0020
 1_pc/21_ppw/armor/19_cloak/ppw_00_cloak_0033
@@ -20077,6 +20575,7 @@
 1_pc/5_pbw/armor/10_lowerbody/pbw_50_lb_0001
 1_pc/27_pkow/armor/9_upperbody/pkow_10_ub_0074_dm
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0023
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0334_ef2
 1_pc/2_phw/armor/9_upperbody/phw_10_ub_0021_01
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0070_dm
 1_pc/8_pww/armor/14_sho/pww_10_sho_0080_a4_03_w
@@ -20087,6 +20586,7 @@
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0020_01_dm
 1_pc/7_pvw/armor/11_hand/pvw_10_hand_0055
 1_pc/16_pcw/armor/14_sho/pcw_10_sho_0042
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0210_01
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0063
 1_pc/25_pqw/armor/10_lowerbody/pqw_10_lb_0015_01
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0030
@@ -20101,8 +20601,10 @@
 1_pc/15_pdw/armor/14_sho/pdw_10_sho_0094_a1_01_w
 1_pc/2_phw/event_costume/phw_00_contribute_0007_e
 1_pc/7_pvw/event_costume/pvw_10_treedummer_0004_e
+1_pc/33_pdkl/armor/11_hand/pdkl_10_hand_0070
 1_pc/29_pnyw/armor/14_sho/pnyw_10_sho_0067_01_dm
 1_pc/24_pfw/armor/9_upperbody/pfw_10_ub_0088
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0069_w
 1_pc/11_pgw/armor/9_upperbody/pgw_10_ub_0021_01_dm
 1_pc/16_pcw/armor/9_upperbody/pcw_10_ub_0024
 1_pc/27_pkow/armor/14_sho/pkow_10_sho_0080_a1_w
@@ -20288,6 +20790,7 @@
 1_pc/13_pnw/event_costume/pnw_00_contribute_0113_e
 1_pc/13_pnw/armor/11_hand/pnw_00_hand_0048
 1_pc/2_phw/armor/19_cloak/phw_10_cloak_0083_dm
+1_pc/33_pdkl/armor/19_cloak/pdkl_10_cloak_0061_dm
 1_pc/8_pww/armor/10_lowerbody/pww_10_lb_0080_a2
 1_pc/15_pdw/armor/19_cloak/pdw_10_cloak_0047_dm_w
 1_pc/32_pwge/armor/10_lowerbody/pwge_10_lb_0097_b1_01_dm
@@ -20298,6 +20801,7 @@
 1_pc/17_psw/armor/10_lowerbody/psw_10_lb_0045_02
 1_pc/3_pew/armor/19_cloak/pew_10_cloak_0027_w
 1_pc/28_pmyf/armor/14_sho/pmyf_00_sho_0033_dm
+1_pc/33_pdkl/armor/9_upperbody/pdkl_vw_ub_0058_dm
 1_pc/3_pew/armor/9_upperbody/pew_00_ub_0052
 1_pc/28_pmyf/armor/9_upperbody/pmyf_10_ub_0049
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0089_a4_01
@@ -20328,6 +20832,7 @@
 1_pc/28_pmyf/armor/10_lowerbody/pmyf_50_lb_0001
 1_pc/16_pcw/armor/14_sho/pcw_00_sho_0001
 1_pc/15_pdw/armor/11_hand/pdw_10_hand_0094_a1
+1_pc/33_pdkl/armor/14_sho/pdkl_50_sho_0008_d
 1_pc/22_pkww/armor/19_cloak/pkww_00_cloak_0274
 1_pc/28_pmyf/armor/19_cloak/pmyf_10_cloak_0075
 1_pc/2_phw/armor/10_lowerbody/phw_10_lb_0059
@@ -20358,6 +20863,7 @@
 1_pc/16_pcw/armor/11_hand/pcw_00_hand_0034_01
 1_pc/11_pgw/armor/10_lowerbody/pgw_10_lb_0052_04_w
 1_pc/17_psw/armor/9_upperbody/psw_00_ub_0034_mul_na
+1_pc/33_pdkl/armor/9_upperbody/pdkl_50_ub_0002_e
 1_pc/2_phw/armor/11_hand/phw_00_hand_0276
 1_pc/11_pgw/armor/14_sho/pgw_10_sho_0013
 1_pc/17_psw/armor/9_upperbody/psw_10_ub_0205_mul
@@ -20420,12 +20926,14 @@
 1_pc/17_psw/armor/19_cloak/psw_10_cloak_0080_a1
 1_pc/8_pww/armor/9_upperbody/pww_10_ub_0210_dm
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0089_a2_01
+1_pc/33_pdkl/armor/10_lowerbody/pdkl_10_lb_0066
 1_pc/5_pbw/armor/14_sho/pbw_10_sho_0069
 1_pc/13_pnw/armor/14_sho/pnw_10_sho_0080_b2_03_w
 1_pc/15_pdw/armor/9_upperbody/pdw_00_ub_0034_01
 1_pc/3_pew/armor/14_sho/pew_hw_sho_0031
 1_pc/25_pqw/armor/9_upperbody/pqw_00_ub_0007_01
 1_pc/8_pww/armor/19_cloak/pww_10_cloak_0093
+1_pc/32_pwge/armor/14_sho/pwge_10_sho_0055_dm_w
 1_pc/7_pvw/armor/10_lowerbody/pvw_10_lb_0095_a1
 1_pc/29_pnyw/armor/9_upperbody/pnyw_10_ub_0097_b1
 1_pc/16_pcw/armor/19_cloak/pcw_10_cloak_0205

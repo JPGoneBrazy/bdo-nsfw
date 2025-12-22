@@ -64,6 +64,7 @@ The Discord BDO NSFW channel contains a wonderful article about the basics of mo
 | 28_PMYF | Woosa |
 | 29_PNYW | Scholar |
 | 32_PWGE | Deadeye |
+| 33_PDKL | Seraph | 
 
 ### Male
 
