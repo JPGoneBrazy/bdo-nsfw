@@ -70,7 +70,7 @@ Just submit your PR if you like. Or feel free to fork and modify it however you 
 
 Verified against 12/21/2025 official patch on NA server.
 
-- Added nude mod to Seraph class
+- Added nude mod to Seraph class. Thanks for [TheGreateSage](https://discord.com/channels/524568440254627850/1076494891204493322) to provide the mesh file.
 
 # 0.3.1 Release Notes (11/25/2025)
 
