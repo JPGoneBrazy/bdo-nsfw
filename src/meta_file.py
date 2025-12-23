@@ -76,7 +76,7 @@ class MetaFile:
     def __init__(self, paz_folder: pathlib.Path):
         meta_file = paz_folder / "pad00000.meta"
         if not meta_file.exists():
-            bdo_utils.rip(f"{meta_file} does not exist. Make sure you are pointing to BDO's PAZ folder.")
+            bdo_utils.rip(f"{meta_file} does not exist. Make sure you are pointing to the game's PAZ folder.")
         bdo_utils.logi(f"Reading {meta_file}")
         with open(meta_file, "rb") as f:
             self.read_meta_file(f)

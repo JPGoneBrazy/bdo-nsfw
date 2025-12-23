@@ -1,6 +1,6 @@
 "********************************************************************************"
 "*                                                                              *"
-"*                        BDO Mod Development Console                           *"
+"*                          Mod Development Console                             *"
 "*                                                                              *"
 "********************************************************************************"
 
@@ -11,7 +11,7 @@
 function warn { write-host -ForegroundColor yellow "WARN : $args" }
 
 function error {
-    write-host -ForegroundColor red "BDO Mod build environment setup failed : $args"
+    write-host -ForegroundColor red "Build environment setup failed : $args"
     stop-process $PID # kill current power shell process
 }
 
@@ -157,7 +157,7 @@ write-host -ForegroundColor green "
 BDO_MOD_ROOT  = $env:BDO_MOD_ROOT
 USERNAME       = $env:USERNAME
 
-BDO Mod development environment is ready to use. Happy coding!
+The mod development environment is ready to use. Happy coding!
 "
 write-host -ForegroundColor yellow "
 Run ""format-all-sources.sh"" to to clean up your code style.

@@ -23,6 +23,7 @@ class OutfitType(enum.Enum):
     def choices(indent: str = ""):
         return indent + f"\n{indent}".join([f"{e.name}: {e.value}" for e in OutfitType])
 
+
 class ColorCode:
     # Reset code
     RESET = "\033[0m"
@@ -76,7 +77,7 @@ def check_paz_folder(target_folder: pathlib.Path):
     #     warning(f"The specified folder '{target_folder}' is not a PAZ folder.")
     meta_file = target_folder / "pad00000.meta"
     if not meta_file.exists():
-        warning(f"{meta_file} not found. Please make sure '{target_folder}' is pointing to a valid BDO PAZ folder.")
+        warning(f"{meta_file} not found. Please make sure '{target_folder}' is pointing to a valid PAZ folder.")
 
 
 def check_gender(name: str, gender: GenderSelection):
@@ -156,7 +157,8 @@ def apply_patch(paz_folder: pathlib.Path, gender: GenderSelection, outfit_type: 
     ]
     mods += collect_mods("_00_remove_all_armors", lambda name: check_gender(name, gender) and check_outfit_type(name, outfit_type))
     mods += collect_mods("_00_remove_underwear", lambda name: check_gender(name, gender))
-    if xyzw: mods += ["_01_xyzw_collections"]
+    if xyzw:
+        mods += ["_01_xyzw_collections"]
     # print(mods)
 
     # create the mod destination folder
@@ -221,11 +223,11 @@ if "__main__" == __name__:
             else:
                 return argparse.HelpFormatter._split_lines(self, text, width)
 
-    parser = argparse.ArgumentParser(formatter_class=CustomFormatter, description="Deploy and customize Midnight XYZW mod for BDO.")
+    parser = argparse.ArgumentParser(formatter_class=CustomFormatter, description="Deploy and customize Midnight XYZW mod.")
     parser.add_argument(
         "target_folder",
         nargs="?",
-        help="Specify the PAZ folder of the BDO game that you want to patch. If not specified, the program will use the current working folder.",
+        help="Specify the PAZ folder of the game that you want to patch. If not specified, the program will use the current working folder.",
     )
     gender_choices = GenderSelection.choices("\t")
     parser.add_argument(

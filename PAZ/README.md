@@ -1,7 +1,3 @@
-# Overview
-
-BDO NSFW mod generated & collected by Midnight Xyzw.
-
 # What's included
 
 ## 1. [No Underwear](files_to_patch/_player/_00_remove_underwear)
@@ -39,7 +35,7 @@ This way is much faster since it utilize symbolic links to avoid file copy. But 
 4. If you are not used to command line:
    1. Open 2 file explorer windows. Make them side by side. So you can see both of them.
    2. One windows points to this folder where this README file and midnight_xyzw.cmd are.
-   3. The other windows points to your BDO game's main folder (the parent folder of the PAZ folder)
+   3. The other windows points to your game's main folder (the parent folder of the PAZ folder)
    4. Drag the PAZ folder, drop it onto the `midnight_xyzw.cmd`. This will launch the deployment script.
    5. Follow the screen instructions to install the mod.
 5. When the script finishes, it should generate a `files_to_patch` folder in your game's PAZ folder. If your game already has the `files_to_patch` folder with your own mods in it. Rest assure that the script will reuse it and not delete/modify anything of your own mods in it.
@@ -78,7 +74,7 @@ Verified against 11/20/2025 official patch on NA server.
 
 - New mod for Guardian's Kharoxia outfit
 - New mod for Kaine outfit for Corsair, Dark Knight, Drakania, Guardian, Kunoichi, Lahn, MAewha, Mystic, Nova, Sorceress, Valkyrie, and Witch
-- Fixed patch error of all "underup" files. BDO has them removed from the game already.
+- Fixed patch error of all "underup" files. They have been removed from the game already.
 - Updated pactool to v1.4.4
 - Updated 3d converter to 11.102
 

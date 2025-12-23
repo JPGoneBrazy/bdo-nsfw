@@ -7,7 +7,7 @@ All credit and courtesy goes to the original authors.
 # 3D converter
 http://3doc.i3dconverter.com/
 
-# BDO Mod Tools from Undertow
+# Mod Tools from Undertow
 
 https://www.undertow.club/threads/bdo-toolkit-a-net-modding-library-for-black-desert-online.12042/
 
@@ -22,7 +22,7 @@ This repository has a copy of the following tools:
 
 https://www.undertow.club/downloads/black-desert-online-resorepless-nude-mod.2645/
 
-This was once the most famous and popluar BDO nude mod available. But it hasn't been maintained after year 2018. Many of new classes released in recent years are not property supported.
+This was once the most famous and popular nude mod available. But it hasn't been maintained after year 2018. Many of new classes released in recent years are not property supported.
 
 # Nude body, Costume Mods for Meta Injector by Suzu
 
@@ -30,6 +30,6 @@ https://www.undertow.club/threads/black-desert-online-nude-body-costume-mods-for
 
 Nude mesh and textures by famous modder Suzu.
 
-# Improved high poly mesh of Suzu body by TheGreateSage
+# Improved high poly mesh of Suzu body by TheGreatSage
 
-https://discord.com/channels/524568440254627850/1170031675409957045
+https://discord.com/channels/524568440254627850/1313857998644314122

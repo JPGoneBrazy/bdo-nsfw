@@ -9,8 +9,8 @@
 
 extern "C" ICE_API void decrypt_inplace(unsigned char *text, size_t length) {
   auto key = (const unsigned char
-                  *)"\x51\xF3\x0F\x11\x04\x24\x6A\x00"; // this is the BDO
-                                                        // encryption key
+                  *)"\x51\xF3\x0F\x11\x04\x24\x6A\x00"; // this is the game's
+                                                        // encryption key.
   auto ice = ice_key_create(0);
   ice_key_set(ice, key);
 

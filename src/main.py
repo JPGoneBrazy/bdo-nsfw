@@ -6,7 +6,7 @@ from bin import bdo_utils
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("-i", required=True, help="Path to your BDO PAZ folder")
+    ap.add_argument("-i", required=True, help="Path to your PAZ folder")
     ap.add_argument("-o", help="Path to the output folder. Default is the current working directory.")
     ap.add_argument("-m", required=True, help="Select which mod to run. Default is all. Options are: none, remove_underwear, remove_all_armors.")
     args = ap.parse_args()

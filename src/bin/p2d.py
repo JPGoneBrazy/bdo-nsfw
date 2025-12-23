@@ -26,7 +26,8 @@ if not args.yes:
     output_file = output_folder / input_file.with_suffix("").name
     if output_file.exists():
         bdo_utils.rip(f"{output_file} already exists. Do you want to overwrite it? (y/n) ")
-        if input() != "y": sys.exit(1)
+        if input() != "y":
+            sys.exit(1)
 
 # look for PACtool.exe
 pactool_folder = bdo_utils.get_root_folder() / "contrib/pactool-1.4"
@@ -50,5 +51,5 @@ bdo_utils.logi(f"Use bone file: {bone_file}")
 
 # run PACtool.exe to convert the input file to a folder
 cmdline = [pactool.absolute(), "-c", input_file.absolute(), bone_file.absolute()]
-bdo_utils.logi(' '.join([str(x) for x in cmdline]))
+bdo_utils.logi(" ".join([str(x) for x in cmdline]))
 subprocess.run(cmdline, cwd=output_folder)
