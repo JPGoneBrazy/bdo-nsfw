@@ -62,6 +62,12 @@ This way contains less steps and could be easier to follow for non programmers. 
 
 Just submit your PR if you like. Or feel free to fork and modify it however you like.
 
+# 0.4.1 Release Note (12/25/2025)
+
+Verified against 12/24/2025 official patch on NA server.
+
+- Fixed body mesh patch to properly apply body meshes from TheGreatSage.
+
 # 0.4.0 Release Note (12/21/2025)
 
 Verified against 12/21/2025 official patch on NA server.

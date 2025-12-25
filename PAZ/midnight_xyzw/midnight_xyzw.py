@@ -154,6 +154,7 @@ def apply_patch(paz_folder: pathlib.Path, gender: GenderSelection, outfit_type: 
     mods = [
         # List mods that we always install
         "_00_suzu_nude",
+        "_00_thegreatsage_nude"
     ]
     mods += collect_mods("_00_remove_all_armors", lambda name: check_gender(name, gender) and check_outfit_type(name, outfit_type))
     mods += collect_mods("_00_remove_underwear", lambda name: check_gender(name, gender))
